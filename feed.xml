@@ -3,12 +3,108 @@
     <title>Medienpädagogik für Seminare</title>
     <link href="https://hodihu.github.io/medienpaedseminar/feed.xml" rel="self" />
     <link href="https://hodihu.github.io/medienpaedseminar" />
-    <updated>2024-11-10T12:31:27+01:00</updated>
+    <updated>2024-11-10T15:14:31+01:00</updated>
     <author>
         <name>Holger Hunger</name>
     </author>
     <id>https://hodihu.github.io/medienpaedseminar</id>
 
+    <entry>
+        <title>Plickers</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/plickers.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/plickers.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/10/13144216884_0f240cf1d0_c.jpg" medium="image" />
+            <category term="Quiz"/>
+            <category term="Feedback"/>
+
+        <updated>2024-11-10T15:13:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/10/13144216884_0f240cf1d0_c.jpg" alt="Einsatz von Plickers im Klassenzimmer" />
+                    Plickers ist ein interaktives digitales Tool für den Unterricht, das eine einfache&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/10/13144216884_0f240cf1d0_c.jpg" class="type:primaryImage" alt="Einsatz von Plickers im Klassenzimmer" /></p>
+                <p><a href="https://www.plickers.com/" target="_blank" rel="noopener noreferrer">Plickers </a>ist ein interaktives digitales Tool für den Unterricht, das eine einfache und effektive Methode zur Durchführung von Quizzes und Umfragen bietet. Hier eine kurze Zusammenfassung mit pädagogischer Würdigung:</p>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Funktionsweise</h3>
+<ul class="marker:text-textOff list-disc pl-8">
+<li>Schüler erhalten personalisierte QR-Code-Karten</li>
+<li>Lehrer stellen Multiple-Choice- oder Richtig/Falsch-Fragen</li>
+<li>Schüler antworten durch Hochhalten ihrer Karten in bestimmter Ausrichtung</li>
+<li>Lehrer scannen Antworten mit Smartphone/Tablet-App</li>
+<li>Ergebnisse werden in Echtzeit auf Projektor/Whiteboard angezeigt</li>
+</ul>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Technische Voraussetzungen</h3>
+<ul class="marker:text-textOff list-disc pl-8">
+<li>Kostenloser Account auf plickers.com</li>
+<li>Smartphone/Tablet mit Plickers-App für Lehrer</li>
+<li>Beamer/interaktives Whiteboard zur Anzeige</li>
+<li>Ausgedruckte QR-Code-Karten für Schüler</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coco Material</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/coco-material.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/coco-material.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/9/Screenshot-2024-11-10-150537.png" medium="image" />
+            <category term="OER"/>
+            <category term="Material"/>
+            <category term="Bilder"/>
+
+        <updated>2024-11-10T15:06:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/9/Screenshot-2024-11-10-150537.png" alt="Screenshot von Coco Material" />
+                    Über 3000 Bildchen, Icons, Symbole und Illustrationen hat die Website Coco Material&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/9/Screenshot-2024-11-10-150537.png" class="type:primaryImage" alt="Screenshot von Coco Material" /></p>
+                <p>Über 3000 Bildchen, Icons, Symbole und Illustrationen hat die Website <a href="https://cocomaterial.com" target="_blank" rel="noopener noreferrer">Coco Material</a> gesammelt, wo sie mit englischsprachigen Suchbegriffen erschlossen werden. Der Knüller dabei: Alle Inhalte stehen unter der Lizenz <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0 - Public Domain</a>, lassen sich also ohne jegliche Einschränkungen weiterverwenden!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PictoSearch</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/pictosearch.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/pictosearch.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/8/Screenshot-2024-11-10-145955.png" medium="image" />
+            <category term="OER"/>
+            <category term="Material"/>
+            <category term="Bilder"/>
+
+        <updated>2024-11-10T15:00:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/8/Screenshot-2024-11-10-145955.png" alt="Screenshot von PictoSearch nach Schule" />
+                    Kits.blog stellt neben allerlei Tools mit PictoSearch eine Suchmaschine für über 10.000&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/8/Screenshot-2024-11-10-145955.png" class="type:primaryImage" alt="Screenshot von PictoSearch nach Schule" /></p>
+                <p>Kits.blog stellt neben allerlei Tools mit <a href="https://picto.kits.blog/" target="_blank" rel="noopener noreferrer">PictoSearch</a> eine Suchmaschine für über 10.000 Piktogramme bereit, die alle unter CC-Lizenz lizenziert sind. Beachte:</p>
+<blockquote>
+<p><small class="muted">Dieses Tool darf nur in Bildungskontexten genutzt werden. Eine Lizenzangabe ist bei Nutzung der Piktogramme zwingend erforderlich.</small></p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Noun Project</title>
         <author>
