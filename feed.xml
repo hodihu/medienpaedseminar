@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Medienpädagogik für Seminare</title>
+    <link href="https://hodihu.github.io/medienpaedseminar/feed.xml" rel="self" />
+    <link href="https://hodihu.github.io/medienpaedseminar" />
+    <updated>2024-11-10T12:31:27+01:00</updated>
+    <author>
+        <name>Holger Hunger</name>
+    </author>
+    <id>https://hodihu.github.io/medienpaedseminar</id>
+
+    <entry>
+        <title>The Noun Project</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/the-noun-project.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/the-noun-project.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/7/Screenshot-2024-11-10-123104.png" medium="image" />
+
+        <updated>2024-11-10T12:31:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/7/Screenshot-2024-11-10-123104.png" alt="Screenshot von The Noun Project" />
+                    Über 7 Millionen Icons und Symbole stehen auf den Seiten des Noun&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/7/Screenshot-2024-11-10-123104.png" class="type:primaryImage" alt="Screenshot von The Noun Project" /></p>
+                <p>Über 7 Millionen Icons und Symbole stehen auf den Seiten des <a href="https://thenounproject.com/" target="_blank" rel="noopener noreferrer">Noun Projects</a> zum Download bereit. Mit dem kostenlosen Account lassen sich die Bilddateien unter Angabe der Lizenz (meist Creative Commons) weiter verwenden.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>OER</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/oer.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/oer.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/6/Screenshot-2024-11-10-122604.png" medium="image" />
+            <category term="OER"/>
+
+        <updated>2024-11-10T12:27:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/6/Screenshot-2024-11-10-122604.png" alt="Screenshot der Website OERinfo" />
+                    Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/6/Screenshot-2024-11-10-122604.png" class="type:primaryImage" alt="Screenshot der Website OERinfo" /></p>
+                <blockquote>
+<p>Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz veröffentlicht werden. Eine solche offene Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Open Educational Resources können einzelne Materialien aber auch komplette Kurse oder Bücher umfassen. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimediaanwendungen, Podcasts – all diese Ressourcen sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden. <a href="https://www.unesco.de/bildung/open-educational-resources.html">(Quelle: UNESCO Definition)</a></p>
+</blockquote>
+<p>Eine Übersicht über rechtliche, organisatorische und praktische Bedeutung von OER liefert bspw. die <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener noreferrer">Informationsstelle OER</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MUNDO</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/mundo.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/mundo.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/5/Screenshot-2024-11-10-122122.png" medium="image" />
+            <category term="OER"/>
+            <category term="Material"/>
+
+        <updated>2024-11-10T12:23:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/5/Screenshot-2024-11-10-122122.png" alt="Screenshot der MUNDO-Startseite" />
+                    MUNDO ist die offene Bildungsmediathek der Länder Deutschlands. Wir wollen mit MUNDO Lernende,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/5/Screenshot-2024-11-10-122122.png" class="type:primaryImage" alt="Screenshot der MUNDO-Startseite" /></p>
+                <p><a href="https://mundo.schule/" target="_blank" rel="noopener noreferrer">MUNDO</a> ist die offene Bildungsmediathek der Länder Deutschlands. </p>
+<blockquote>
+<p>Wir wollen mit MUNDO Lernende, Lehrende und Erziehungsberechtigte in ihrer täglichen Arbeit unterstützen. Dafür sichten wir frei im Netz verfügbare digitale Medien und prüfen sie anhand der Bildungsstandards für den Einsatz im Unterricht. So wird eine zentrale Auffindbarkeit von offenen, lizenzrechtlich und qualitativ geprüften Materialien sowie eine rechtssichere Nutzung durch die Lehrkräfte garantiert.<br><br>Seit Mai 2022 können registrierte Nutzer*innen des Angebots eigene Materialien einreichen, um sie Lehrkräften kostenfrei zur Verfügung zu stellen. Die Einreichungen werden durch die MUNDO-Redaktion geprüft und freigegeben und stehen dann in MUNDO, aber auch in an Sodix angeschlossenen Landessystemen zur Wiederverwendung zur Verfügung. </p>
+</blockquote>
+<p>Für Bilder, Videos und anderes Unterrichtsmaterial ist MUNDO daher die ideale weil rechtssichere Quelle. Darüber hinaus können eigene Materialien unter einer sinnvollen Lizenz via MUNDO veröffentlicht werden (Karma-Punkte und so... 😋).</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Datenschutz an Schulen</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/datenschutz-an-schulen.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/datenschutz-an-schulen.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/4/shredder-779853_1280.jpg" medium="image" />
+            <category term="Recht"/>
+            <category term="Datenschutz"/>
+
+        <updated>2024-11-10T12:14:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/4/shredder-779853_1280.jpg" alt="geschreddertes Papier" />
+                    Der Umgang mit personenbezogenen Daten gehört seit jeher selbstverständlich zum Schulalltag. Von&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/4/shredder-779853_1280.jpg" class="type:primaryImage" alt="geschreddertes Papier" /></p>
+                <p>Der Umgang mit personenbezogenen Daten gehört seit jeher selbstverständlich zum Schulalltag. Von der Schulanmeldung bis zum Abschlusszeugnis gibt es kaum einen Vorgang in der Schule, bei dem es nicht um einzelne Menschen geht. Schule ist nicht anonym und soll es auch nicht sein.</p>
+<p>Die <a href="https://www.km.bayern.de/recht/datenschutz-an-schulen" target="_blank" rel="noopener noreferrer">Online-Handreichung des Bayerischen Staatsministeriums für Unterricht und Kultus zum Datenschutz an Schulen in Bayern</a> soll den Umgang mit Datenschutzfragen an der Schule erleichtern und zum sicheren Umgang mit praxisrelevanten Fragestellungen beitragen. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kopien an Schulen</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/kopien-an-schulen.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/kopien-an-schulen.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/3/3c549aad-f71c-4b5a-8870-c4b9f3fe4ea3.jpg" medium="image" />
+            <category term="Vervielfältigung"/>
+            <category term="Recht"/>
+            <category term="Kopieren"/>
+
+        <updated>2024-11-10T12:05:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/3/3c549aad-f71c-4b5a-8870-c4b9f3fe4ea3.jpg" alt="Lehrerin am Kopierer, Cartoon-Style" />
+                    Der so genannte „Fotokopiervertrag“ gestattet es Lehrkräften an Schulen, für ihren eigenen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/3/3c549aad-f71c-4b5a-8870-c4b9f3fe4ea3.jpg" class="type:primaryImage" alt="Lehrerin am Kopierer, Cartoon-Style" /></p>
+                <p>Der so genannte „Fotokopiervertrag“ gestattet es Lehrkräften an Schulen, für ihren eigenen Unterrichtsgebrauch Scans und Kopien aus Schulbüchern zu erstellen und abzuspeichern. </p>
+<p>m Lehrerinnen und Lehrern unkompliziert Scans und Kopien aus Schulbüchern zu ermöglichen, haben die Bundesländer mit den Verwertungsgesellschaften WORT, Bild-Kunst und Musikedition sowie den Bildungsmedienverlagen einen so genannten „Fotokopiervertrag“ – den <a href="https://schulbuchkopie.de/images/files/Gesamtvertrag_Vervielfaeltigungen_an_Schulen_2022.pdf" target="_blank" rel="noopener noreferrer">Gesamtvertrag „Vervielfältigungen an Schulen“</a> – geschlossen.</p>
+<p>Zusammengefasst bedeutet das für Lehrys:</p>
+<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap">
+<div>
+<div class="el-content uk-panel">
+<ul>
+<li>Lehrkräfte können 15 %, maximal aber 20 Seiten, eines Druckwerkes kopieren und bei Werken, die ab 2005 erschienen sind, einscannen.</li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Kleine Werke (außer Unterrichtswerke) können vollständig kopiert/gescannt werden. Kleine Werke sind z. B. Noten mit max. 6 Seiten; Bilder, Fotos und sonstige Abbildungen.</span></li>
+<li>Lehrerinnen und Lehrer können diese Kopien und Scans für ihren eigenen Unterrichtsgebrauch sowie für Prüfungszwecke nutzen.</li>
+<li>Bei abgespeicherten Scans muss ein ein Zugriff Dritter mit effektiven Mitteln ausgeschlossen werden.</li>
+<li>Bei Werken, die digital angeboten werden, gelten die Lizenzbedingungen des Verlages.</li>
+</ul>
+<p>Nachzulesen unter anderem auf den Webseiten von <a href="https://www.schulbuchkopie.de" target="_blank" rel="noopener noreferrer">Schulbuchkopie.de</a>.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Foto- und Videoaufnahmen</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/foto-und-videoaufnahmen.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/foto-und-videoaufnahmen.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/2/petri-5.jpg" medium="image" />
+            <category term="Recht"/>
+            <category term="Datenschutz"/>
+
+        <updated>2024-11-10T11:47:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/2/petri-5.jpg" alt="Prof. Dr. Thomas Petri liest in Akten." />
+                    Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht auf seinen Webseiten regelmäßige Informationen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/2/petri-5.jpg" class="type:primaryImage" alt="Prof. Dr. Thomas Petri liest in Akten." /></p>
+                <p>Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht auf seinen Webseiten regelmäßige Informationen zu datenschutzrechtlichen Fragestellungen, unter anderem auch für Schulen (wobei diesbezügliche Infos nicht übertrieben leicht zu finden sind). Relevant sind unter anderem:</p>
+<ul>
+<li>Das <a href="https://www.datenschutz-bayern.de/datenschutzreform2018/AP_Foto_Video_Schule.pdf" target="_blank" rel="noopener noreferrer">Arbeitspapier zu Foto- und Videoaufnahmen im Unterricht</a></li>
+<li>Die Teile der <a href="https://www.datenschutz-bayern.de/infothek/" target="_blank" rel="noopener noreferrer">Infothek</a>, die sich mit schulischen Inhalten befassen</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tweedback</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/tweedback.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/tweedback.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/1/Screenshot-2024-11-10-113056.png" medium="image" />
+            <category term="Quiz"/>
+            <category term="Feedback"/>
+
+        <updated>2024-11-10T11:32:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/1/Screenshot-2024-11-10-113056.png" alt="Screenshot Tweedback" />
+                    Tweedback ist eine webbasierte Anwendung, die speziell für interaktives Lernen und Lehren&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/1/Screenshot-2024-11-10-113056.png" class="type:primaryImage" alt="Screenshot Tweedback" /></p>
+                <p><a href="https://tweedback.de/" target="_blank" rel="noopener noreferrer">Tweedback </a>ist eine webbasierte Anwendung, die speziell für interaktives Lernen und Lehren in Hochschulkontexten entwickelt wurde.</p>
+<p>Das Tool bietet drei Hauptfunktionen:</p>
+<p> </p>
+<ol class="marker:text-textOff list-decimal pl-8">
+<li><strong>Quiz</strong>: Ermöglicht Single- oder Multiple-Choice-Fragen für Peer Instruction und aktive Beteiligung der Lernenden.</li>
+<li><strong>Chatwall</strong>: Hier können Lernende anonym Fragen stellen, diese bewerten und beantworten.</li>
+<li><strong>Panic-Modul</strong>: Gibt Studierenden die Möglichkeit, Feedback zum Vorlesungstempo zu geben.<a target="_blank" rel="nofollow noopener" class="citation ml-xs inline" data-state="closed" aria-label="Tweedback - Hochschule Augsburg" href="https://www.tha.de/Tweedback.html"></a></li>
+</ol>
+<p>Im (Förderschul-)Kontext lässt sich Tweedback für spontane, kurze Rückmeldungen oder Abfragen einsetzen. In der kostenlosen Version lässt sich eine Session nur 24 Stunden nutzen und danach nicht mehr aktivieren.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
