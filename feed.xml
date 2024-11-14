@@ -3,12 +3,108 @@
     <title>Medienpädagogik für Seminare</title>
     <link href="https://hodihu.github.io/medienpaedseminar/feed.xml" rel="self" />
     <link href="https://hodihu.github.io/medienpaedseminar" />
-    <updated>2024-11-14T13:36:30+01:00</updated>
+    <updated>2024-11-14T14:17:21+01:00</updated>
     <author>
         <name>Holger Hunger</name>
     </author>
     <id>https://hodihu.github.io/medienpaedseminar</id>
 
+    <entry>
+        <title>StopClip</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/stopclip.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/stopclip.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/29/clipkits.jpg" medium="image" />
+            <category term="Storytelling"/>
+            <category term="Stop Motion"/>
+            <category term="Geschichten"/>
+
+        <updated>2024-11-14T14:16:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/29/clipkits.jpg" alt="StopClip Screenshot eines gelben Plüschbären" />
+                    Stop-Motion-Filme sind die seit vielen Jahren beliebte digitale Form des "Daumenkinos". Mit StopClip bietet kits.blog eine Variante für alle gängigen Internetbrowser und Geräte an: Lernende können mit Smartphones, Tablets, Laptops etc. eigene kleine Videos produzieren. Wie bei allen Tools aus dem kits-Angebot ist die Anwendung&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/29/clipkits.jpg" class="type:primaryImage" alt="StopClip Screenshot eines gelben Plüschbären" /></p>
+                <p>Stop-Motion-Filme sind die seit vielen Jahren beliebte digitale Form des "Daumenkinos". Mit <a href="https://clip.kits.blog/" target="_blank" rel="noopener noreferrer">StopClip</a> bietet kits.blog eine Variante für alle gängigen Internetbrowser und Geräte an: Lernende können mit Smartphones, Tablets, Laptops etc. eigene kleine Videos produzieren.<br><br>Wie bei allen Tools aus dem kits-Angebot ist die Anwendung kostenfrei, datenschutzkonform und ohne Anmeldung zugänglich. Eine Installation o. ä. ist nicht notwendig.<br><br>Die Oberfläche ähnelt einer gängigen Kamera-Anwendung. Mit dem Auslöser wird der "Filmrolle" ein weiteres Bild hinzugefügt. Um flüssige Animation zu ermöglichen, wird das vorherige Bild jeweils als Overlay eingeblendet. So kann die nächste Aufnahme genau erfolgen. Sind alle Bilder im Kasten, kann das Video mit der eigenen Stimme vertont werden.<br><br>Mit StopClip sind viele kreative Unterrichtsszenarien möglich: das (Nach-)Erzählen von Geschichten (z. B. mit Hilfe von Spielfiguren), Erläuterung von mathematischen Lösungswegen, Visualisieren von sich verändernden Strukturen und und und… Probier es am besten gleich aus!<br><br>⚠️💙 Bei der Erstellung eines Filmes gelangen keinerlei Fotos, Audioaufnahmen oder andere Daten ins Netz! Die Verarbeitung erfolgt ausschließlich lokal in deinem Browser und ist damit besonders datensparsam.</p>
+<p><em>Die oben stehende Beschreibung stammt von Timo Ihrke und wurde auf der <a href="https://kits.blog/stop-motion-filme-mit-clip-kits-blog/" target="_blank" rel="noopener noreferrer">Blog-Seite von kits.blog</a> unter der Lizenz <span class="cc-license-identifier"><a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> veröffentlicht.</span></em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stop Motion Studio</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/stop-motion-studio.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/stop-motion-studio.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/28/Screenshot-2024-11-14-140415.png" medium="image" />
+            <category term="Storytelling"/>
+            <category term="Stop Motion"/>
+            <category term="Geschichten"/>
+            <category term="App"/>
+
+        <updated>2024-11-14T14:06:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/28/Screenshot-2024-11-14-140415.png" alt="Screenshot Stop Motion Studio" />
+                    Stop Motion Studio wird als App für Android, iPads und sogar für Windows angeboten und ermöglicht es bereits in der kostenlosen Version, Stop-Motion-Filme mit der Kamera des jeweiligen Gerätes zu erstellen. Zahlreiche weiterführende Funktionen stehen allerdings nur in der kostenpflichtigen Version der App zur Verfügung&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/28/Screenshot-2024-11-14-140415.png" class="type:primaryImage" alt="Screenshot Stop Motion Studio" /></p>
+                <p><a href="https://www.cateater.com/" target="_blank" rel="noopener noreferrer">Stop Motion Studio</a> wird als App für <a href="https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio&amp;hl=de" target="_blank" rel="noopener noreferrer">Android</a>, <a href="https://apps.apple.com/de/app/stop-motion-studio/id441651297">iPads</a> und sogar für <a href="https://www.stopmotionstudio.com/download.html" target="_blank" rel="noopener noreferrer">Windows</a> angeboten und ermöglicht es bereits in der kostenlosen Version, Stop-Motion-Filme mit der Kamera des jeweiligen Gerätes zu erstellen. Zahlreiche weiterführende Funktionen stehen allerdings nur in der kostenpflichtigen Version der App zur Verfügung und so stolpern Anwendys leider ziemlich häufig über gesperrte Menüeinträge und eingeblendete Werbung.</p>
+<p>Nichtsdestotrotz bietet die App einen einfachen Einstieg in die Erstellung von Stop-Motion-Videos, die allerdings je nach Thema, Auftrag und Ziel einiges an Materialeinsatz (im Sinne von Requisiten, Knete, Lego, Playmobil, o.ä.) erfordern.</p>
+<p>Eine kostenlose Alternative, die im Webbrowser läuft und damit die Installation einer App überflüssig macht, die die <a href="https://hodihu.github.io/medienpaedseminar/stopclip.html">Web-App StopClip</a> von kits.blog.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Puppet Pals</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/puppet-pals.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/puppet-pals.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/27/Screenshot-2024-11-14-135155.png" medium="image" />
+            <category term="Storytelling"/>
+            <category term="Geschichten"/>
+            <category term="App"/>
+
+        <updated>2024-11-14T13:52:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/27/Screenshot-2024-11-14-135155.png" alt="Screenshot Puppet Pals" />
+                    Puppet Pals 2 bzw. Puppet Pals HD sind App für iPads zum Erstellen von animierten Kurzfilmen und Geschichten. Nutzer wählen Figuren und Hintergründe aus oder erstellen eigene, dann können Figuren auf einer digitalen Bühne bewegt und animiert werden. Dazu können Sprache, Geräusche und Musik aufgenommen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/27/Screenshot-2024-11-14-135155.png" class="type:primaryImage" alt="Screenshot Puppet Pals" /></p>
+                <p><a href="https://apps.apple.com/de/app/puppet-pals-2/id589141096" target="_blank" rel="noopener noreferrer">Puppet Pals 2</a> bzw. <a href="https://apps.apple.com/de/app/puppet-pals/id342076546" target="_blank" rel="noopener noreferrer">Puppet Pals HD</a> sind App für iPads zum Erstellen von animierten Kurzfilmen und Geschichten. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Nutzer wählen Figuren und Hintergründe aus oder erstellen eigene, dann können </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Figuren auf einer digitalen Bühne bewegt und animiert werden. Dazu können </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Sprache, Geräusche und Musik aufgenommen werden. Das </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Ergebnis ist ein animierter Kurzfilm, der sich problemlos exportieren lässt.</span></p>
+<h3 class="mb-2 mt-6 text-lg first:mt-3">Einsatzmöglichkeiten</h3>
+<ul class="marker:text-textOff list-disc pl-8">
+<li>Geschichtenerzählen und kreatives Schreiben</li>
+<li>Erstellung von Lehrvideos zu verschiedenen Themen</li>
+<li>Unterstützung beim Fremdsprachenlernen</li>
+<li>Präsentationshilfe für schüchterne Lernende</li>
+<li>Brainstorming und Ideenentwicklung</li>
+</ul>
+<p>In der jeweils eingeschränkten, weil kostenlosen Version stehen nur eine sehr begrenzte Anzahl an Hintergründen, Figuren und Gegenständen zur Verfügung.</p>
+<h3>Puppet Pals 2 vs Puppet Pals HD</h3>
+<p>Puppet Pals 2 bietet eine gegenüber der HD-Variante erweiterte Benutzererfahrung mit mehr interaktiven Möglichkeiten. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Benutzer können eigene Fotos als Charaktere verwenden (⚠️ Datenschutz!). Daneben </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">gibt es mehr integrierte Funktionen zur Erstellung von Geschichten, einschließlich der Möglichkeit, historische Ereignisse nachzustellen (allerdings sehr US-lastig) oder Buchberichte zu präsentieren. Insgesamt ist die Steuerung der Elemente in Puppet Pals 2 deutlich vielfältiger, aber dadurch auch komplizierter als bei Puppet Pals HD.</span></p>
+<p>Vor dem Einsatz im eigenen Unterricht sollten daher die Anforderungen an die App bezogen auf die zu erreichenden Ziele abgeglichen werden.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Knietzsches Werkstatt</title>
         <author>
@@ -219,103 +315,6 @@
 <p>Zusätzlich zur Eingabe eines einfachen Textes kann QRStorage den Inhalt auch übersetzen und bei Bedarf automatisch in Sprache umwandeln.</p>
 <p><a href="https://kits.blog/tag/qrstorage/" target="_blank" rel="noopener noreferrer">Didaktische Hinweise und Ideen für den Unterricht</a> zum QRStorage liefert kits.blog gleich mit.</p>
 <p>⚠️ Die aufgenommenen oder geschriebenen Texte liegen weitgehend ungeschützt auf den Servern des Betreibers, daher ist der Datenschutz-Hinweis von QRStorage ernst zu nehmen: <em>Die Eingabe sensibler Daten ist zu vermeiden. </em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Oncoo</title>
-        <author>
-            <name>Holger Hunger</name>
-        </author>
-        <link href="https://hodihu.github.io/medienpaedseminar/oncoo.html"/>
-        <id>https://hodihu.github.io/medienpaedseminar/oncoo.html</id>
-        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/16/Screenshot-2024-11-13-153509.png" medium="image" />
-            <category term="Zusammenarbeit"/>
-            <category term="Feedback"/>
-
-        <updated>2024-11-13T15:36:09+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/16/Screenshot-2024-11-13-153509.png" alt="Screenshot von Oncoo" />
-                    ONCOO ist ein Projekt, das von Olaf Müller und Thomas Rohde entwickelt wird und zuerst im Fachseminar Informatik am Studienseminar für das Lehramt an berufsbildenden Schulen in Osnabrück, an den BBS der Stadt Osnabrück am Schölerberg und an den BBS Lingen Agrarwirtschaft Ernährung Hauswirtschaft Soziales&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/16/Screenshot-2024-11-13-153509.png" class="type:primaryImage" alt="Screenshot von Oncoo" /></p>
-                <blockquote>
-<p><a href="https://www.oncoo.de/" target="_blank" rel="noopener noreferrer">ONCOO</a> ist ein Projekt, das von Olaf Müller und Thomas Rohde entwickelt wird und zuerst im Fachseminar Informatik am Studienseminar für das Lehramt an berufsbildenden Schulen in Osnabrück, an den BBS der Stadt Osnabrück am Schölerberg und an den BBS Lingen Agrarwirtschaft Ernährung Hauswirtschaft Soziales unterrichtlich erprobt wurde. Hier werden Werkzeuge angeboten, die bekannte Unterrichtsmethoden aus dem Bereich des kooperativen Lernens mit Hilfe des Rechners abbilden. Auf diese Weise können die räumlichen Beschränkungen umgangen werden, die oft im Rechnerraum existieren.</p>
-</blockquote>
-<p><a href="https://www.oncoo.de/" target="_blank" rel="noopener noreferrer">Oncoo</a> umfasst die Tools</p>
-<ul>
-<li>Kartenabfrage</li>
-<li>Helfersystem</li>
-<li>Lerntempoduett</li>
-<li>Placemat</li>
-<li>Zielscheibe</li>
-</ul>
-<p>Alle Angebote lassen sich ohne Anmeldung oder Angabe von persönlichen Daten nutzen und funktionieren im Webbrowser. Nach dem Einrichten eines Tools zeigt Oncoo sofort die Zugangs-Links für Schülys als Webadresse und QR-Code. Damit ist ist Oncoo auch spontan innerhalb einer Minut einsatzbereit.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Actionbound</title>
-        <author>
-            <name>Holger Hunger</name>
-        </author>
-        <link href="https://hodihu.github.io/medienpaedseminar/actionbound.html"/>
-        <id>https://hodihu.github.io/medienpaedseminar/actionbound.html</id>
-        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/15/Actionbound.png" medium="image" />
-            <category term="Schnitzeljagd"/>
-
-        <updated>2024-11-13T15:27:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/15/Actionbound.png" alt="Comic-Hände halten Smartphones in die Luft" />
-                    Gestalte mit der Actionbound-App spannende, lustige und lehrreiche Smartphone- und Tablet-Rallyes. Diese Schnitzeljagden werden im Actionbound-Jargon „Bounds“ genannt. Eigene Bounds lassen sich mit dem einfach zu bedienenden Bound-Creator auf der Actionbound-Webseite erstellen: Rätsel, Herausforderungen und Medieninhalte werden mit Spielelementen wie GPS-Locations, QR-Codes und Mini-Games kombiniert.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/15/Actionbound.png" class="type:primaryImage" alt="Comic-Hände halten Smartphones in die Luft" /></p>
-                <p>Gestalte mit der <a href="https://de.actionbound.com/" target="_blank" rel="noopener noreferrer">Actionbound</a>-App spannende, lustige und lehrreiche Smartphone- und Tablet-Rallyes. Diese Schnitzeljagden werden im Actionbound-Jargon „Bounds“ genannt.<br><br>Eigene Bounds lassen sich mit dem einfach zu bedienenden Bound-Creator auf der Actionbound-Webseite erstellen: Rätsel, Herausforderungen und Medieninhalte werden mit Spielelementen wie GPS-Locations, QR-Codes und Mini-Games kombiniert.</p>
-<p>Während das Angebot von Actionbound - die Erstellung von "digitalen Schnitzeljagden" ziemlich alternativlos ist, ist der Preis dafür leider ziemlich happig: Eine Einzel-Lizenz für Lehrys kostet minimal 59 € pro Jahr. Billiger wird's nur mit der kostenlosen Privat-Lizenz, die erlaubt aber keinerlei Nutzung im schulischen Kontext sondern beschränkt sich nur auf Kindergeburtstage und rein private Stadtteil-Rallyes o.ä.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Spezielle Lizenzbedingungen</title>
-        <author>
-            <name>Holger Hunger</name>
-        </author>
-        <link href="https://hodihu.github.io/medienpaedseminar/spezielle-lizenzbedingungen.html"/>
-        <id>https://hodihu.github.io/medienpaedseminar/spezielle-lizenzbedingungen.html</id>
-        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/14/legal-5293009_1280.jpg" medium="image" />
-            <category term="Recht"/>
-            <category term="OER"/>
-
-        <updated>2024-11-13T15:13:39+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/14/legal-5293009_1280.jpg" alt="Statue einer Justitia" />
-                    Leider lassen sich gerade eigene Arbeiten, die mit so beliebten Tools wie Worksheetcrafter oder Canva erstellt werden, nicht so einfach und rechtssicher unter einer freien Lizenz veröffentlichen, wie man sich das als Lehry vielleicht wünschen würde. Die häufigsten Fragen im Seminar werden zu den folgenden&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/14/legal-5293009_1280.jpg" class="type:primaryImage" alt="Statue einer Justitia" /></p>
-                <p>Leider lassen sich gerade eigene Arbeiten, die mit so beliebten Tools wie Worksheetcrafter oder Canva erstellt werden, nicht so einfach und rechtssicher unter einer freien Lizenz veröffentlichen, wie man sich das als Lehry vielleicht wünschen würde. Die häufigsten Fragen im Seminar werden zu den folgenden Produkten gestellt - und da ich kein Rechtsgelehrter bin, verlinke ich hier die mir am passendsten erscheinenden Stellen auf der jeweiligen Hersteller-Website:</p>
-<h4>Metacom Symbole</h4>
-<p>In einem Wort zusammengefasst: schwierig!</p>
-<p><a href="http://www.metacom-symbole.de/bestellung/welche_lizenz.html">http://www.metacom-symbole.de/bestellung/welche_lizenz.html</a></p>
-<h4>Worksheetcrafter</h4>
-<p>Zusammengefasst: Eine Veröffentlichung außerhalb der eigenen Tauschbörse ist ziemlich unmöglich.</p>
-<p><a href="http://support.worksheetcrafter.com/index.php?pg=file&amp;from=2&amp;id=120">http://support.worksheetcrafter.com/index.php?pg=file&amp;from=2&amp;id=120</a></p>
-<h4>Canva</h4>
-<p>Zusammengefasst: Eine Veröffentlichung ist möglich, allerdings müssen die verwendeten Inhalte deutlich selbst bearbeitet bzw. verändert sein.</p>
-<p><a href="https://www.canva.com/de_de/help/using-canva-to-create-products-for-sale/">https://www.canva.com/de_de/help/using-canva-to-create-products-for-sale/</a></p>
             ]]>
         </content>
     </entry>
