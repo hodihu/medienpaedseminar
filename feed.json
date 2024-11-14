@@ -5,27 +5,11 @@
     "home_page_url": "https://hodihu.github.io/medienpaedseminar",
     "feed_url": "https://hodihu.github.io/medienpaedseminar/feed.json",
     "user_comment": "",
+    "icon": "https://hodihu.github.io/medienpaedseminar/media/website/Firefly-Ein-Cartoon-Bild-eines-freundlichen-Manns-der-umgeben-ist-von-Computern-Tablets-Tafeln-i1-2.jpg",
     "author": {
         "name": "Holger Hunger"
     },
     "items": [
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/kahoot.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/kahoot.html",
-            "title": "Kahoot",
-            "summary": "Kahoot! ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten&hellip;",
-            "content_html": "<p><a href=\"https://kahoot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kahoot!</a> ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten zu entscheiden. Nachdem alle ihre Ergebnis eingeloggt haben, wird die korrekte Antwort der Frage präsentiert und ein Zwischenstand (Ranking) aufgezeigt. Die Person, die die meisten Fragen korrekt beantwortet hat, belegt am Ende des Quiz den ersten Platz. </p>\n<p>In der kostenlosen Variante lassen sich nur eine begrenzte Anzahl an Mitspielys in ein Spiel einladen und auch die Auswahl an Frage-Varianten ist eingeschränkt. Trotzdem lassen sich mitreißende Wiederholungsstunden bspw. am Ende einer Sachkunde-Sequenz in der Klasse durchführen (unbedingt so planen, dass sich die Pause unmittelbar anschließt 🤣).</p>\n<p>Methodische Informationen zu Kahoot! hat der <a href=\"https://lern-app-kompass.de/kahoot-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Lern-App-Kompass</a> zusammengestellt.</p>\n<p>⚠️ Die Webseite von Kahoot! ist vergleichsweise datenhungrig. Aus Gründen des Datenschutzes ist die Anmeldung von Schülys mit eigenen Account o.ä. zu vermeiden und auch die Installation der App auf eigenen Geräten ist kritisch zu sehen. Personenbezogene Daten haben bei Kahoot! ohnehin nichts verloren.</p>\n<p> </p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/23/Bildschirmfoto-2023-02-06-um-12.07.31-e1675682080493-aspect-ratio-400-200.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Spiel",
-                   "Quiz"
-            ],
-            "date_published": "2024-11-14T09:32:04+01:00",
-            "date_modified": "2024-11-14T09:32:04+01:00"
-        },
         {
             "id": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
             "url": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
@@ -178,6 +162,24 @@
             ],
             "date_published": "2024-11-13T15:13:39+01:00",
             "date_modified": "2024-11-13T15:13:39+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
+            "title": "Presseportal für Schulen",
+            "summary": "Das Presseportal für Schulen ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.",
+            "content_html": "<p>Das <a href=\"https://presseportal-fuer-schulen.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Presseportal für Schulen</a> ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.</p>\n<p>Im September 2023 ist der Freischalt-Code, der für die Registrierung im Preseportal erforderlich ist, an die bayerischen Schulen verschickt worden. Falls die Schulleitung oder das Sekretariat bei der Suche nach dem Code nicht mehr fündig wird, kann er formlos per <a href=\"https://presseportal-fuer-schulen.de/hilfeformular\" target=\"_blank\" rel=\"noopener noreferrer\">Hilfe-Formular</a> neu angefordert werden.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Zeitung",
+                   "Zeitschriften",
+                   "Medien"
+            ],
+            "date_published": "2024-11-13T15:04:21+01:00",
+            "date_modified": "2024-11-13T15:04:21+01:00"
         }
     ]
 }

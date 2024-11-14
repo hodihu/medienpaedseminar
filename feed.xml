@@ -3,41 +3,12 @@
     <title>Medienpädagogik für Seminare</title>
     <link href="https://hodihu.github.io/medienpaedseminar/feed.xml" rel="self" />
     <link href="https://hodihu.github.io/medienpaedseminar" />
-    <updated>2024-11-14T09:32:04+01:00</updated>
+    <updated>2024-11-14T09:22:26+01:00</updated>
     <author>
         <name>Holger Hunger</name>
     </author>
     <id>https://hodihu.github.io/medienpaedseminar</id>
 
-    <entry>
-        <title>Kahoot</title>
-        <author>
-            <name>Holger Hunger</name>
-        </author>
-        <link href="https://hodihu.github.io/medienpaedseminar/kahoot.html"/>
-        <id>https://hodihu.github.io/medienpaedseminar/kahoot.html</id>
-        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/23/Bildschirmfoto-2023-02-06-um-12.07.31-e1675682080493-aspect-ratio-400-200.png" medium="image" />
-            <category term="Spiel"/>
-            <category term="Quiz"/>
-
-        <updated>2024-11-14T09:32:04+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/23/Bildschirmfoto-2023-02-06-um-12.07.31-e1675682080493-aspect-ratio-400-200.png" alt="Screenshot Kahoot" />
-                    Kahoot! ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/23/Bildschirmfoto-2023-02-06-um-12.07.31-e1675682080493-aspect-ratio-400-200.png" class="type:primaryImage" alt="Screenshot Kahoot" /></p>
-                <p><a href="https://kahoot.com/" target="_blank" rel="noopener noreferrer">Kahoot!</a> ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten zu entscheiden. Nachdem alle ihre Ergebnis eingeloggt haben, wird die korrekte Antwort der Frage präsentiert und ein Zwischenstand (Ranking) aufgezeigt. Die Person, die die meisten Fragen korrekt beantwortet hat, belegt am Ende des Quiz den ersten Platz. </p>
-<p>In der kostenlosen Variante lassen sich nur eine begrenzte Anzahl an Mitspielys in ein Spiel einladen und auch die Auswahl an Frage-Varianten ist eingeschränkt. Trotzdem lassen sich mitreißende Wiederholungsstunden bspw. am Ende einer Sachkunde-Sequenz in der Klasse durchführen (unbedingt so planen, dass sich die Pause unmittelbar anschließt 🤣).</p>
-<p>Methodische Informationen zu Kahoot! hat der <a href="https://lern-app-kompass.de/kahoot-2/" target="_blank" rel="noopener noreferrer">Lern-App-Kompass</a> zusammengestellt.</p>
-<p>⚠️ Die Webseite von Kahoot! ist vergleichsweise datenhungrig. Aus Gründen des Datenschutzes ist die Anmeldung von Schülys mit eigenen Account o.ä. zu vermeiden und auch die Installation der App auf eigenen Geräten ist kritisch zu sehen. Personenbezogene Daten haben bei Kahoot! ohnehin nichts verloren.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Bookstagram &amp; Taskcards</title>
         <author>
@@ -317,6 +288,33 @@
 <h4>Canva</h4>
 <p>Zusammengefasst: Eine Veröffentlichung ist möglich, allerdings müssen die verwendeten Inhalte deutlich selbst bearbeitet bzw. verändert sein.</p>
 <p><a href="https://www.canva.com/de_de/help/using-canva-to-create-products-for-sale/">https://www.canva.com/de_de/help/using-canva-to-create-products-for-sale/</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Presseportal für Schulen</title>
+        <author>
+            <name>Holger Hunger</name>
+        </author>
+        <link href="https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html"/>
+        <id>https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html</id>
+        <media:content url="https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg" medium="image" />
+            <category term="Zeitung"/>
+            <category term="Zeitschriften"/>
+            <category term="Medien"/>
+
+        <updated>2024-11-13T15:04:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg" alt="Presseportal für Schulen Screenshot" />
+                    Das Presseportal für Schulen ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg" class="type:primaryImage" alt="Presseportal für Schulen Screenshot" /></p>
+                <p>Das <a href="https://presseportal-fuer-schulen.de/" target="_blank" rel="noopener noreferrer">Presseportal für Schulen</a> ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.</p>
+<p>Im September 2023 ist der Freischalt-Code, der für die Registrierung im Preseportal erforderlich ist, an die bayerischen Schulen verschickt worden. Falls die Schulleitung oder das Sekretariat bei der Suche nach dem Code nicht mehr fündig wird, kann er formlos per <a href="https://presseportal-fuer-schulen.de/hilfeformular" target="_blank" rel="noopener noreferrer">Hilfe-Formular</a> neu angefordert werden.</p>
             ]]>
         </content>
     </entry>
