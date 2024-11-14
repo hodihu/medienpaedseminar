@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/knietzsches-werkstatt.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/knietzsches-werkstatt.html",
+            "title": "Knietzsches Werkstatt",
+            "summary": "Mit Knietzsches Geschichtenwerkstatt, die als App für iPads oder Android-Tablets kostenlos erhältlich ist, können Kinder eigene Knietzsche-Geschichten erzählen – ganz frei, ohne Vorgaben. Die App fördert spielerisch Kreativität und Selbstvertrauen und unterstützt Kinder beim Erzählen. Die Spiel- und Gestaltungsmöglichkeiten sind groß. Nachwuchsautoren ab dem Grundschulalter&hellip;",
+            "content_html": "<p>Mit Knietzsches Geschichtenwerkstatt, die als App für <a href=\"https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762\" target=\"_blank\" rel=\"noopener noreferrer\">iPads</a> oder <a href=\"https://play.google.com/store/apps/details?id=de.swr.knietzsche&amp;pli=1\">Android-Tablets</a> kostenlos erhältlich ist, können Kinder eigene Knietzsche-Geschichten erzählen – ganz frei, ohne Vorgaben. Die App fördert spielerisch Kreativität und Selbstvertrauen und unterstützt Kinder beim Erzählen. Die Spiel- und Gestaltungsmöglichkeiten sind groß. Nachwuchsautoren ab dem Grundschulalter erschaffen ihre eigenen Bildergeschichten.</p>\n<p>Der Vorteil bei der Knieztsche-App gegenüber anderen, die teils deutlich mehr Funktionen und vorgefertigte Inhalte bieten ist genau dieses. Die Beschränkung auf unbewegte Inhalte und das sparsame Repertoire an Figuren und Vorlagen sorgt für eine schnelle Einarbeitung (für Schülys und Lehrys) und ein ablenkungsfreies Arbeiten.</p>\n<p> </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/26/Screenshot-2024-11-14-133543.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Storytelling",
+                   "Geschichten",
+                   "App"
+            ],
+            "date_published": "2024-11-14T13:36:30+01:00",
+            "date_modified": "2024-11-14T13:36:30+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
             "url": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
             "title": "Bookstagram &amp; Taskcards",
@@ -162,24 +180,6 @@
             ],
             "date_published": "2024-11-13T15:13:39+01:00",
             "date_modified": "2024-11-13T15:13:39+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
-            "title": "Presseportal für Schulen",
-            "summary": "Das Presseportal für Schulen ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.",
-            "content_html": "<p>Das <a href=\"https://presseportal-fuer-schulen.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Presseportal für Schulen</a> ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.</p>\n<p>Im September 2023 ist der Freischalt-Code, der für die Registrierung im Preseportal erforderlich ist, an die bayerischen Schulen verschickt worden. Falls die Schulleitung oder das Sekretariat bei der Suche nach dem Code nicht mehr fündig wird, kann er formlos per <a href=\"https://presseportal-fuer-schulen.de/hilfeformular\" target=\"_blank\" rel=\"noopener noreferrer\">Hilfe-Formular</a> neu angefordert werden.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Zeitung",
-                   "Zeitschriften",
-                   "Medien"
-            ],
-            "date_published": "2024-11-13T15:04:21+01:00",
-            "date_modified": "2024-11-13T15:04:21+01:00"
         }
     ]
 }
