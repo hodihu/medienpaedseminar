@@ -10,6 +10,126 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/kahoot.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/kahoot.html",
+            "title": "Kahoot",
+            "summary": "Kahoot! ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten&hellip;",
+            "content_html": "<p><a href=\"https://kahoot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kahoot!</a> ist eine spielbasierte Lernplattform, auf welcher Frage – Antwort – Spiele erstellt werden können. Der Aufbau des Quiz ähnelt dem der Fernsehshow von „Wer wird Millionär“. Es wird eine Frage gestellt und die Teilnehmer und Teilnehmerinnen haben die Möglichkeit sich zwischen vier vorgegebenen Antworten zu entscheiden. Nachdem alle ihre Ergebnis eingeloggt haben, wird die korrekte Antwort der Frage präsentiert und ein Zwischenstand (Ranking) aufgezeigt. Die Person, die die meisten Fragen korrekt beantwortet hat, belegt am Ende des Quiz den ersten Platz. </p>\n<p>In der kostenlosen Variante lassen sich nur eine begrenzte Anzahl an Mitspielys in ein Spiel einladen und auch die Auswahl an Frage-Varianten ist eingeschränkt. Trotzdem lassen sich mitreißende Wiederholungsstunden bspw. am Ende einer Sachkunde-Sequenz in der Klasse durchführen (unbedingt so planen, dass sich die Pause unmittelbar anschließt 🤣).</p>\n<p>Methodische Informationen zu Kahoot! hat der <a href=\"https://lern-app-kompass.de/kahoot-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Lern-App-Kompass</a> zusammengestellt.</p>\n<p>⚠️ Die Webseite von Kahoot! ist vergleichsweise datenhungrig. Aus Gründen des Datenschutzes ist die Anmeldung von Schülys mit eigenen Account o.ä. zu vermeiden und auch die Installation der App auf eigenen Geräten ist kritisch zu sehen. Personenbezogene Daten haben bei Kahoot! ohnehin nichts verloren.</p>\n<p> </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/23/Bildschirmfoto-2023-02-06-um-12.07.31-e1675682080493-aspect-ratio-400-200.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Spiel",
+                   "Quiz"
+            ],
+            "date_published": "2024-11-14T09:32:04+01:00",
+            "date_modified": "2024-11-14T09:32:04+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
+            "title": "Bookstagram &amp; Taskcards",
+            "summary": "Grundidee Schülys nutzen \"Soziale Medien\" (ob wir wollen oder nicht). Also nutzen wir die Bekanntheit und das Look &amp; Feel von bspw. Instagram um die Bookstagram-Community zumindest teilweise ins Klassenzimmer zu holen um damit das altbewährte Buch-Referat zu ersetzen. Voraussetzung ist ein Account bei Taskcards&hellip;",
+            "content_html": "<h3>Grundidee</h3>\n<p>Schülys nutzen \"Soziale Medien\" (ob wir wollen oder nicht). Also nutzen wir die Bekanntheit und das Look &amp; Feel von bspw. Instagram um die Bookstagram-Community zumindest teilweise ins Klassenzimmer zu holen um damit das altbewährte Buch-Referat zu ersetzen.</p>\n<h3>Umsetzung</h3>\n<p>Voraussetzung ist ein Account bei <a href=\"https://www.taskcards.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Taskcards</a> (beim Gratis-Zugang sind zwei Pinnwände möglich) und eine Pinnwand, die bei der Erstellung als \"Blog\" eingerichtet wird. Dadurch ergibt sich eine Timeline-ähnliche Struktur wie sie von Instagram &amp; Co bekannt ist. Neue Beiträge werden ans Ende der Liste angehängt, die sich von oben nach unten 'durchwischen' lässt.</p>\n<h3>Differenzierung</h3>\n<p>Im Endausbau soll ein Bookstagram-Beitrag folgende Inhaltselemente enhalten:</p>\n<ul>\n<li>Foto des Buches mit entsprechenden Requisiten, Details oder Umgebung</li>\n<li>Titel des Buches mit Autor und Verlag</li>\n<li>Inhaltszusammenfassung als zusammenhängender Text</li>\n<li>Eigene Einschätzung (gefällt mir/nicht, weil...)</li>\n<li>Sterne-Bewertung a la Amazon</li>\n<li>Hashtags (also Stichpunkte) passend zum Inhalt des Buches</li>\n</ul>\n<p>Differenzierung findet hinzufügen bzw. Weglassen einzelner Inhaltselemente statt (und natürlich über die passende Auswahl des Buches 😋).</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/22/Screenshot-2024-11-14-092115.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Social Media",
+                   "Medien",
+                   "Bücher"
+            ],
+            "date_published": "2024-11-14T09:22:26+01:00",
+            "date_modified": "2024-11-14T09:22:26+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/teammapper.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/teammapper.html",
+            "title": "TeamMapper",
+            "summary": "Mit Mindmaps lassen sich Themen strukturieren und visualisieren. Mit dem Tool TeamMapper steht eine niederschwellige und auch kollaborativ nutzbare Möglichkeit zur Erstellung zur Verfügung. Durch die registrierungsfreie und niederschwellige Nutzung und die Datenschutzkonformität des Tools gibt es keine Hindernisse zur Nutzung durch Schülys. Die Mindmaps&hellip;",
+            "content_html": "<p>Mit Mindmaps lassen sich Themen strukturieren und visualisieren. Mit dem Tool <a href=\"https://map.kits.blog/\" target=\"_blank\" rel=\"noopener noreferrer\">TeamMapper</a> steht eine niederschwellige und auch kollaborativ nutzbare Möglichkeit zur Erstellung zur Verfügung.</p>\n<p>Durch die registrierungsfreie und niederschwellige Nutzung und die Datenschutzkonformität des Tools gibt es keine Hindernisse zur Nutzung durch Schülys. Die Mindmaps können dabei auch kollaborativ erstellt werden. Hinzu kommen interessante Funktionen wie z. B. Exportierbarkeit, ein Bild-Upload, eine Schnittstelle zu den ARASAAC-Piktogrammen oder die Möglichkeit einer individuellen Farbgestaltung.</p>\n<p>Der <a href=\"https://kits.blog/mindmapping-in-lernprozessen/\" target=\"_blank\" rel=\"noopener noreferrer\">dazugehörige Blog-Artikel</a> beschreib methodische und didaktische Aspekte des TeamMappers.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/21/mindmap_fruehling.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Mindmap",
+                   "Brainstorming"
+            ],
+            "date_published": "2024-11-14T09:09:09+01:00",
+            "date_modified": "2024-11-14T09:09:09+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/wordcharts.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/wordcharts.html",
+            "title": "WordCharts",
+            "summary": "In einer Wortwolke werden Wörter aus einem Text oder einer Liste gezählt und entsprechend ihrer Häufigkeit visualisiert. Die Darstellung ist je nach verwendetem Tool unterschiedlich. Bei dem Tool WordCharts von kits.blog rücken häufig vorkommende Wörter in die Mitte der Wolke und werden größer dargestellt. Highlight:&hellip;",
+            "content_html": "<p>In einer Wortwolke werden Wörter aus einem Text oder einer Liste gezählt und entsprechend ihrer Häufigkeit visualisiert. Die Darstellung ist je nach verwendetem Tool unterschiedlich. Bei dem Tool <a href=\"https://charts.kits.blog\" target=\"_blank\" rel=\"noopener noreferrer\">WordCharts</a> von kits.blog rücken häufig vorkommende Wörter in die Mitte der Wolke und werden größer dargestellt. Highlight: Wortarten werden auf Wunsch erkannt und in unterschiedlichen Farben dargestellt. So kannst du deine Wortwolke nach Wortarten filtern.</p>\n<p>Über den Teilen-Button lassen sich Wörter von bspw. Schülys oder Teilnehmys einer Fortbildung über deren Smartphone oder Tablet via QR-Code einsammeln und in Echtzeit ebenfalls in einer Wortwolke visualisieren.</p>\n<p>Methodische und didaktische <a href=\"https://kits.blog/digitale-lesestrategien-wortwolken/\" target=\"_blank\" rel=\"noopener noreferrer\">Hinweise zu WordCharts</a> liefert der dazugehörige Artikel in kits.blog.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/20/wortwolke_blogbeitrag-2.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Wortwolke",
+                   "Feedback"
+            ],
+            "date_published": "2024-11-14T09:02:24+01:00",
+            "date_modified": "2024-11-14T09:02:24+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/learningapps.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/learningapps.html",
+            "title": "LearningApps",
+            "summary": "Anders als der Name LearningApps vielleicht suggeriert, werden hier keine 'echten' Apps erstellt sondern vielmehr kleine Lern-Häppchen, die sich in jedem Webbrowser öffnen lassen. LearningApps.org unterstützt Lern- und Lehrprozesse mit kleinen interaktiven, multimedialen Bausteinen. Die Bausteine können sehr einfach online erstellt und genutzt werden. Es&hellip;",
+            "content_html": "<p>Anders als der Name <a href=\"https://learningapps.org/\" target=\"_blank\" rel=\"noopener noreferrer\">LearningApps</a> vielleicht suggeriert, werden hier keine 'echten' Apps erstellt sondern vielmehr kleine Lern-Häppchen, die sich in jedem Webbrowser öffnen lassen.</p>\n<blockquote>\n<p>LearningApps.org unterstützt Lern- und Lehrprozesse mit kleinen interaktiven, multimedialen Bausteinen. Die Bausteine können sehr einfach online erstellt und genutzt werden. Es steht eine Reihe von Vorlagen (Zuordnungsübungen, Multiple Choice-Tests etc.) zur Verfügung. Die Bausteine selbst stellen keine abgeschlossenen Lerneinheiten dar. Sie sind zum Üben und Vertiefen von Fertigkeiten (z.B. im Fremdsprachenunterricht) gedacht und eignen sich nicht für die Erklärung komplexer Sachverhalte. Die von den Nutzenden veröffentlichten Bausteine weisen unterschiedliche Qualität auf und müssen vor dem Einsatz im Unterricht überprüft werden.<br>Zitat von der Webseite</p>\n</blockquote>\n<p>Intuitiv und (fast) ohne Einarbeitung lässt sich auf der Grundlage einer vorhandenen LearningApp ein eigenes Lern-Häppchen basteln: Der Klick auf den Button \"ähnliche App erstellen\" befördert einen in den Editor, wo sämtliche Einstellungen der App verändert werden und anschließend für eigene Zwecke gespeichert werden können.</p>\n<p>Besonders spannend für Lehrys, die mit der eigenen Klasse mebis verwenden:<br>Der sehr kleine und unscheinbare Button \"Scorm\" lädt eine ZIP-Datei herunter, die sich mit wenigen Mausklicks direkt in einen mebis-Kurs einfügen und damit nahtlos integrieren lässt.</p>\n<p> </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/19/Screenshot-2024-11-14-085332.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Übung",
+                   "Lernen"
+            ],
+            "date_published": "2024-11-14T08:54:31+01:00",
+            "date_modified": "2024-11-14T08:54:31+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/hyfee.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/hyfee.html",
+            "title": "hyfee",
+            "summary": "hyFee ist eine kosenpflichtige App für iPad oder iPhone, mit der sich Feedback oder Lernmaterialien schnell und unkompliziert verteilen lassen: Sie nehmen Audio, Bilder oder Videos direkt in hyFee auf oder wählen vorhandene Medien aus der Fotobibliothek. Falls nötig kombinieren Sie einfach beliebige Feedback-Typen zu&hellip;",
+            "content_html": "<p>hyFee ist eine kosenpflichtige App für iPad oder iPhone, mit der sich Feedback oder Lernmaterialien schnell und unkompliziert verteilen lassen:</p>\n<p>Sie nehmen Audio, Bilder oder Videos direkt in hyFee auf oder wählen vorhandene Medien aus der Fotobibliothek. Falls nötig kombinieren Sie einfach beliebige Feedback-Typen zu einem Paket. </p>\n<p>Wenn Sie fertig sind, laden Sie das Feedback für die Schüler*in mit einem Tap hoch. hyFee kümmert sich um das Ablegen der Dateien, sodass Sie sich selbst keine Gedanken über Ordner und Dateiformate kümmern müssen. </p>\n<p>Nach dem Hochladen können Sie einen automatisch erzeugten QR-Code speichern und drucken, um ihn auf die Arbeit der Schüler*in zu kleben. </p>\n<p>hyFee setzt in der Variante \"Drive\" einen eigenen Online-Speicher (wie z.B. <span class=\"elementor-icon-list-text\">NextCloud, OneDrive, Google Drive, Dropbox, ownCloud und MagentaCLOUD) </span>voraus. Die aufgenommenen Audios, Videos oder PDFs werden in die jeweilige Cloud geladen und verbleiben dort beliebig lange.</p>\n<p>In der Variante \"Cloud\", die ein monatliches Abo erfordert, werden die Daten für 40 Tage in der hyFee-Cloud gespeichert. <span class=\"elementor-icon-list-text\">Übersetzungs- und Text-To-Speech-Funktionen sind bei der Cloud-Variante bereits integriert.</span></p>\n<p>Eine kostenlose, aber nicht ganz so mächtige und einfach zu bedienende Alternative zu hyFee ist das hier vorgestellte <a href=\"https://hodihu.github.io/medienpaedseminar/qrstorage.html\">QRStorage</a> von kits.blog.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/18/Screenshot-2024-11-14-084453.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "QR-Code",
+                   "Feedback"
+            ],
+            "date_published": "2024-11-14T08:45:16+01:00",
+            "date_modified": "2024-11-14T08:45:16+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/qrstorage.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/qrstorage.html",
+            "title": "QRStorage",
+            "summary": "QR-Codes lassen im und ums Klassenzimmer herum sinnvoll einsetzen. In einem QR-Code lässt sich alles verpacken, was aus Zeichen wie Buchstaben oder Zahlen besteht - also nicht nur die auf Produktverpackungen allseits zu findenden Web-Adressen. Der QRStorage von kits (Kompetent in Technik und Sprache) des&hellip;",
+            "content_html": "<p>QR-Codes lassen im und ums Klassenzimmer herum sinnvoll einsetzen. In einem QR-Code lässt sich alles verpacken, was aus Zeichen wie Buchstaben oder Zahlen besteht - also nicht nur die auf Produktverpackungen allseits zu findenden Web-Adressen.</p>\n<p>Der <a href=\"https://qr.kits.blog/\" target=\"_blank\" rel=\"noopener noreferrer\">QRStorage</a> von kits (Kompetent in Technik und Sprache) des Niedersächsischen Landesinstituts für schulische Qualitätsentwicklung bietet eine einfache und kostenlose Möglichkeit eigene QR-Codes zu erstellen. Spannend ist dabei der Menüpunkt \"Aufnahme\". Damit lassen sich Audio-Aufnahmen, z.B. für persönliches Feedback o.ä. direkt am PC, Smartphone oder Tablet einsprechen und in ein QR-Code verwandeln, der dann für Schülys ausgedruckt wird.</p>\n<p>Zusätzlich zur Eingabe eines einfachen Textes kann QRStorage den Inhalt auch übersetzen und bei Bedarf automatisch in Sprache umwandeln.</p>\n<p><a href=\"https://kits.blog/tag/qrstorage/\" target=\"_blank\" rel=\"noopener noreferrer\">Didaktische Hinweise und Ideen für den Unterricht</a> zum QRStorage liefert kits.blog gleich mit.</p>\n<p>⚠️ Die aufgenommenen oder geschriebenen Texte liegen weitgehend ungeschützt auf den Servern des Betreibers, daher ist der Datenschutz-Hinweis von QRStorage ernst zu nehmen: <em>Die Eingabe sensibler Daten ist zu vermeiden. </em></p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/17/Screenshot-2024-11-14-083423.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "QR-Code",
+                   "Feedback"
+            ],
+            "date_published": "2024-11-14T08:36:33+01:00",
+            "date_modified": "2024-11-14T08:36:33+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/oncoo.html",
             "url": "https://hodihu.github.io/medienpaedseminar/oncoo.html",
             "title": "Oncoo",
@@ -58,128 +178,6 @@
             ],
             "date_published": "2024-11-13T15:13:39+01:00",
             "date_modified": "2024-11-13T15:13:39+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/presseportal-fuer-schulen.html",
-            "title": "Presseportal für Schulen",
-            "summary": "Das Presseportal für Schulen ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.",
-            "content_html": "<p>Das <a href=\"https://presseportal-fuer-schulen.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Presseportal für Schulen</a> ermöglicht Lehrkräften kostenlos und rechtssicher die redaktionelle Berichterstattung aus über 1.500 Zeitungen, Publikumszeitschriften und Online-Medien einfach in ihren Unterricht einzubinden. Nach einmaliger Registrierung und Anmeldung am Portal stehen der interessierten Lehrkraft unglaublich viele deutsche Tageszeitungen und Zeitschriften zur Recherche zur Verfügung.</p>\n<p>Im September 2023 ist der Freischalt-Code, der für die Registrierung im Preseportal erforderlich ist, an die bayerischen Schulen verschickt worden. Falls die Schulleitung oder das Sekretariat bei der Suche nach dem Code nicht mehr fündig wird, kann er formlos per <a href=\"https://presseportal-fuer-schulen.de/hilfeformular\" target=\"_blank\" rel=\"noopener noreferrer\">Hilfe-Formular</a> neu angefordert werden.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/13/Screenshot-2024-11-13-150216.jpg",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Zeitung",
-                   "Zeitschriften",
-                   "Medien"
-            ],
-            "date_published": "2024-11-13T15:04:21+01:00",
-            "date_modified": "2024-11-13T15:04:21+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/pexels.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/pexels.html",
-            "title": "Pexels",
-            "summary": "Pexels ist eine weitere großartige Webseite, wenn du auf der Suche nach kostenlosen Bildern oder Videos unter einer freien Lizenz bist. Witzigerweise tuchen zahlreiche Fotos von Pixabay auch bei Pexels auf - und umgekehrt.",
-            "content_html": "<p><a href=\"https://www.pexels.com\" target=\"_blank\" rel=\"noopener noreferrer\">Pexels</a> ist eine weitere großartige Webseite, wenn du auf der Suche nach kostenlosen Bildern oder Videos unter einer freien Lizenz bist. Witzigerweise tuchen zahlreiche Fotos von Pixabay auch bei Pexels auf - und umgekehrt.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/12/Screenshot-2024-11-13-145148.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Videos",
-                   "OER",
-                   "Bilder"
-            ],
-            "date_published": "2024-11-13T14:54:15+01:00",
-            "date_modified": "2024-11-13T14:54:34+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/plickers.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/plickers.html",
-            "title": "Plickers",
-            "summary": "Plickers ist ein interaktives digitales Tool für den Unterricht, das eine einfache und effektive Methode zur Durchführung von Quizzes und Umfragen bietet. Hier eine kurze Zusammenfassung mit pädagogischer Würdigung: Funktionsweise Schüler erhalten personalisierte QR-Code-Karten Lehrer stellen Multiple-Choice- oder Richtig/Falsch-Fragen Schüler antworten durch Hochhalten ihrer Karten&hellip;",
-            "content_html": "<p><a href=\"https://www.plickers.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Plickers </a>ist ein interaktives digitales Tool für den Unterricht, das eine einfache und effektive Methode zur Durchführung von Quizzes und Umfragen bietet. Hier eine kurze Zusammenfassung mit pädagogischer Würdigung:</p>\n<h3 class=\"mb-2 mt-6 text-lg first:mt-3\">Funktionsweise</h3>\n<ul class=\"marker:text-textOff list-disc pl-8\">\n<li>Schüler erhalten personalisierte QR-Code-Karten</li>\n<li>Lehrer stellen Multiple-Choice- oder Richtig/Falsch-Fragen</li>\n<li>Schüler antworten durch Hochhalten ihrer Karten in bestimmter Ausrichtung</li>\n<li>Lehrer scannen Antworten mit Smartphone/Tablet-App</li>\n<li>Ergebnisse werden in Echtzeit auf Projektor/Whiteboard angezeigt</li>\n</ul>\n<h3 class=\"mb-2 mt-6 text-lg first:mt-3\">Technische Voraussetzungen</h3>\n<ul class=\"marker:text-textOff list-disc pl-8\">\n<li>Kostenloser Account auf plickers.com</li>\n<li>Smartphone/Tablet mit Plickers-App für Lehrer</li>\n<li>Beamer/interaktives Whiteboard zur Anzeige</li>\n<li>Ausgedruckte QR-Code-Karten für Schüler</li>\n</ul>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/10/13144216884_0f240cf1d0_c.jpg",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Quiz",
-                   "Feedback"
-            ],
-            "date_published": "2024-11-10T15:13:53+01:00",
-            "date_modified": "2024-11-10T15:14:31+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/coco-material.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/coco-material.html",
-            "title": "Coco Material",
-            "summary": "Über 3000 Bildchen, Icons, Symbole und Illustrationen hat die Website Coco Material gesammelt, wo sie mit englischsprachigen Suchbegriffen erschlossen werden. Der Knüller dabei: Alle Inhalte stehen unter der Lizenz CC0 - Public Domain, lassen sich also ohne jegliche Einschränkungen weiterverwenden!",
-            "content_html": "<p>Über 3000 Bildchen, Icons, Symbole und Illustrationen hat die Website <a href=\"https://cocomaterial.com\" target=\"_blank\" rel=\"noopener noreferrer\">Coco Material</a> gesammelt, wo sie mit englischsprachigen Suchbegriffen erschlossen werden. Der Knüller dabei: Alle Inhalte stehen unter der Lizenz <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC0 - Public Domain</a>, lassen sich also ohne jegliche Einschränkungen weiterverwenden!</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/9/Screenshot-2024-11-10-150537.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "OER",
-                   "Material",
-                   "Bilder"
-            ],
-            "date_published": "2024-11-10T15:06:10+01:00",
-            "date_modified": "2024-11-10T15:06:21+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/pictosearch.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/pictosearch.html",
-            "title": "PictoSearch",
-            "summary": "Kits.blog stellt neben allerlei Tools mit PictoSearch eine Suchmaschine für über 10.000 Piktogramme bereit, die alle unter CC-Lizenz lizenziert sind. Beachte: Dieses Tool darf nur in Bildungskontexten genutzt werden. Eine Lizenzangabe ist bei Nutzung der Piktogramme zwingend erforderlich.",
-            "content_html": "<p>Kits.blog stellt neben allerlei Tools mit <a href=\"https://picto.kits.blog/\" target=\"_blank\" rel=\"noopener noreferrer\">PictoSearch</a> eine Suchmaschine für über 10.000 Piktogramme bereit, die alle unter CC-Lizenz lizenziert sind. Beachte:</p>\n<blockquote>\n<p><small class=\"muted\">Dieses Tool darf nur in Bildungskontexten genutzt werden. Eine Lizenzangabe ist bei Nutzung der Piktogramme zwingend erforderlich.</small></p>\n</blockquote>\n<p> </p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/8/Screenshot-2024-11-10-145955.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "OER",
-                   "Material",
-                   "Bilder"
-            ],
-            "date_published": "2024-11-10T15:00:42+01:00",
-            "date_modified": "2024-11-10T15:00:42+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/the-noun-project.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/the-noun-project.html",
-            "title": "The Noun Project",
-            "summary": "Über 7 Millionen Icons und Symbole stehen auf den Seiten des Noun Projects zum Download bereit. Mit dem kostenlosen Account lassen sich die Bilddateien unter Angabe der Lizenz (meist Creative Commons) weiter verwenden.",
-            "content_html": "<p>Über 7 Millionen Icons und Symbole stehen auf den Seiten des <a href=\"https://thenounproject.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noun Projects</a> zum Download bereit. Mit dem kostenlosen Account lassen sich die Bilddateien unter Angabe der Lizenz (meist Creative Commons) weiter verwenden.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/7/Screenshot-2024-11-10-123104.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Symbole",
-                   "Piktogramme"
-            ],
-            "date_published": "2024-11-10T12:31:27+01:00",
-            "date_modified": "2024-11-13T14:55:39+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/oer.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/oer.html",
-            "title": "OER",
-            "summary": "Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz veröffentlicht werden. Eine solche offene Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Open Educational Resources können&hellip;",
-            "content_html": "<blockquote>\n<p>Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz veröffentlicht werden. Eine solche offene Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Open Educational Resources können einzelne Materialien aber auch komplette Kurse oder Bücher umfassen. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimediaanwendungen, Podcasts – all diese Ressourcen sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden. <a href=\"https://www.unesco.de/bildung/open-educational-resources.html\">(Quelle: UNESCO Definition)</a></p>\n</blockquote>\n<p>Eine Übersicht über rechtliche, organisatorische und praktische Bedeutung von OER liefert bspw. die <a href=\"https://open-educational-resources.de/was-ist-oer-3-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Informationsstelle OER</a>.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/6/Screenshot-2024-11-10-122604.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "OER"
-            ],
-            "date_published": "2024-11-10T12:27:01+01:00",
-            "date_modified": "2024-11-10T12:27:01+01:00"
         }
     ]
 }
