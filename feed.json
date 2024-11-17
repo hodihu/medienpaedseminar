@@ -11,6 +11,60 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/lernfoerderliche-gestaltung.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/lernfoerderliche-gestaltung.html",
+            "title": "Lernförderliche Gestaltung",
+            "summary": "Auf den Seiten des mebis-Magazins sind die Grundlagen zur lernförderlichen Gestaltung von digitalen Unterrichtsmaterialien übersichtlich zusammengefasst. Neben den pädagogisch-psychologische Grundlagen liefert die verschiedenen Artikel Empfehlungen zur lernförderlichen Gestaltung von mebis-Kursen, Präsentationen sowie Inhalten, mit denen Lernende direkt interagieren können. Die Gestaltungshinweise zu Arbeitsblättern beziehen sich&hellip;",
+            "content_html": "<p>Auf den <a href=\"https://mebis.bycs.de/kategorien/mediendidaktik/themen-im-fokus-md/lernfoerderliche-gestaltung\" target=\"_blank\" rel=\"noopener noreferrer\">Seiten des mebis-Magazins</a> sind die Grundlagen zur lernförderlichen Gestaltung von digitalen Unterrichtsmaterialien übersichtlich zusammengefasst. Neben den pädagogisch-psychologische Grundlagen liefert die verschiedenen Artikel Empfehlungen zur lernförderlichen Gestaltung von mebis-Kursen, Präsentationen sowie Inhalten, mit denen Lernende direkt interagieren können. Die Gestaltungshinweise zu Arbeitsblättern beziehen sich auch auf klassische Papier-Arbeitsblätter, die mit digitalen Möglichkeiten angereichert werden. In einem weiteren Beitrag werden Möglichkeiten des Einsatzes von Erklärvideos aufgezeigt und Gestaltungstipps beim Erstellen gegeben. </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/34/Screenshot-2024-11-17-103303.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "mebis",
+                   "Lernen",
+                   "Layout",
+                   "Gestaltung"
+            ],
+            "date_published": "2024-11-17T10:33:41+01:00",
+            "date_modified": "2024-11-17T10:33:41+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/mebis-kurzlinks.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/mebis-kurzlinks.html",
+            "title": "mebis-Kurzlinks",
+            "summary": "Mit mebis Kurzlinks steht Ihnen als Lehrkraft die Möglichkeit zur Verfügung, aus langen Internetadressen verkürzte URLs der Art mebis.link/meineBezeichnung zu erzeugen. Dabei können Sie auch eigene Bezeichnungen vergeben, etwa mebis.link/meininhalt. Der Dienst kann sowohl für alle Seiten auf mebis als auch für alle weiteren digitalen&hellip;",
+            "content_html": "<p><span class=\"iwe2-font-size\">Mit <a href=\"https://kurzlinks.mebis.bycs.de/\" target=\"_blank\" rel=\"noopener noreferrer\">mebis Kurzlinks</a> steht Ihnen als Lehrkraft die Möglichkeit zur Verfügung, aus langen Internetadressen verkürzte URLs der Art mebis.link/meineBezeichnung zu erzeugen. Dabei können Sie auch eigene Bezeichnungen vergeben, etwa <em>mebis.link/meininhalt</em>.<br><br>Der Dienst kann sowohl für alle Seiten auf mebis als auch für alle weiteren digitalen Inhalte im Internet genutzt werden. Zusätzlich besteht die Möglichkeit, QR-Codes zu generieren.</span></p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://hodihu.github.io/medienpaedseminar/media/posts/33/Screenshot-2024-11-17-102048.png\" alt=\"QR-Code Button von mebis\" width=\"48\" height=\"50\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-xs.png 300w ,https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-sm.png 480w ,https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-md.png 768w ,https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-lg.png 1024w ,https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-xl.png 1360w ,https://hodihu.github.io/medienpaedseminar/media/posts/33/responsive/Screenshot-2024-11-17-102048-2xl.png 1600w\"></figure>\n<p><span class=\"iwe2-font-size\">In </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">allen Angeboten von mebis finden Sie in der oberen Leiste einen Button, über den Sie mit nur einem Klick einen Kurzlink für die aktive Seite erzeugen können.</span></p>\n<p>Sämtliche Kurzlinks lassen sich auch nach dem Anlegen noch verändern. So können QR-Codes, die für Arbeitsblätter oder für das Klassenzimmer ausgedruckt wurden, auch dann bestehen bleiben, wenn sich der Link oder die Webseite verändert hat.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/33/fittosize_1440_0_672_557_38a38b5c91e414164865cd75edeb6edf_01_kurzlinks.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "mebis",
+                   "Kurzlinks",
+                   "ByCS"
+            ],
+            "date_published": "2024-11-17T10:23:04+01:00",
+            "date_modified": "2024-11-17T10:23:04+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/simpleshow.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/simpleshow.html",
+            "title": "Simpleshow",
+            "summary": "Mit dem Online-Tool simpleshow kann jeder ohne großen Aufwand bei minimalem Zeiteinsatz kostenlos Videos produzieren. Mit simpleshow lassen sich komplexe Sachverhalte in automatisch generierten Erklärvideos verständlich erklären. Die Hauptarbeit für den Anwender liegt dabei in der Formulierung eines sinnvoll strukturierten Textes, der anschließend von simpleshow&hellip;",
+            "content_html": "<p>Mit dem Online-Tool <a href=\"https://website.simpleshow.com/\" target=\"_blank\" rel=\"noopener noreferrer\">simpleshow</a> kann jeder ohne großen Aufwand bei minimalem Zeiteinsatz kostenlos Videos produzieren. Mit simpleshow lassen sich komplexe Sachverhalte in automatisch generierten Erklärvideos verständlich erklären. </p>\n<p>Die Hauptarbeit für den Anwender liegt dabei in der Formulierung eines sinnvoll strukturierten Textes, der anschließend von simpleshow mit Grafiken und den bekannten \"wischenden Händen\" animiert und bei Bedarf auch gleich gesprochen wird.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"800\" height=\"400\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://videos.simpleshow.com/lW0dsDbwJN\" /></video></figure>\n<p>Die kostenlose Classroom-Lizenz ist mit einigen Einschränkungen versehen (Wasserzeichen, Video öffentlich, beschränkte Stimmen-Auswahl), im Gegensatz zum Free-Modell allerdings deutlich sinnvoller zu benutzen.</p>\n<p>⚠️ Schülys müssen per Mail zur <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">gemeinsame Mitarbeit an Videos eingeladen werden. Beachte dabei datenschutzrechtliche Vorgaben!</span></p>\n<p> </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/35/Screenshot-2024-11-17-105342.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Video",
+                   "Medien"
+            ],
+            "date_published": "2024-11-15T11:14:00+01:00",
+            "date_modified": "2024-11-17T11:14:18+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/mebis-tafel.html",
             "url": "https://hodihu.github.io/medienpaedseminar/mebis-tafel.html",
             "title": "mebis Tafel",
@@ -21,12 +75,13 @@
                 "name": "Holger Hunger"
             },
             "tags": [
+                   "mebis",
                    "Tafel",
                    "Interaktives Display",
                    "ByCS"
             ],
             "date_published": "2024-11-14T14:30:25+01:00",
-            "date_modified": "2024-11-14T14:39:31+01:00"
+            "date_modified": "2024-11-17T10:23:23+01:00"
         },
         {
             "id": "https://hodihu.github.io/medienpaedseminar/stopclip.html",
@@ -135,57 +190,6 @@
             ],
             "date_published": "2024-11-14T09:09:09+01:00",
             "date_modified": "2024-11-14T09:09:09+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/wordcharts.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/wordcharts.html",
-            "title": "WordCharts",
-            "summary": "In einer Wortwolke werden Wörter aus einem Text oder einer Liste gezählt und entsprechend ihrer Häufigkeit visualisiert. Die Darstellung ist je nach verwendetem Tool unterschiedlich. Bei dem Tool WordCharts von kits.blog rücken häufig vorkommende Wörter in die Mitte der Wolke und werden größer dargestellt. Highlight:&hellip;",
-            "content_html": "<p>In einer Wortwolke werden Wörter aus einem Text oder einer Liste gezählt und entsprechend ihrer Häufigkeit visualisiert. Die Darstellung ist je nach verwendetem Tool unterschiedlich. Bei dem Tool <a href=\"https://charts.kits.blog\" target=\"_blank\" rel=\"noopener noreferrer\">WordCharts</a> von kits.blog rücken häufig vorkommende Wörter in die Mitte der Wolke und werden größer dargestellt. Highlight: Wortarten werden auf Wunsch erkannt und in unterschiedlichen Farben dargestellt. So kannst du deine Wortwolke nach Wortarten filtern.</p>\n<p>Über den Teilen-Button lassen sich Wörter von bspw. Schülys oder Teilnehmys einer Fortbildung über deren Smartphone oder Tablet via QR-Code einsammeln und in Echtzeit ebenfalls in einer Wortwolke visualisieren.</p>\n<p>Methodische und didaktische <a href=\"https://kits.blog/digitale-lesestrategien-wortwolken/\" target=\"_blank\" rel=\"noopener noreferrer\">Hinweise zu WordCharts</a> liefert der dazugehörige Artikel in kits.blog.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/20/wortwolke_blogbeitrag-2.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Wortwolke",
-                   "Feedback"
-            ],
-            "date_published": "2024-11-14T09:02:24+01:00",
-            "date_modified": "2024-11-14T09:02:24+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/learningapps.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/learningapps.html",
-            "title": "LearningApps",
-            "summary": "Anders als der Name LearningApps vielleicht suggeriert, werden hier keine 'echten' Apps erstellt sondern vielmehr kleine Lern-Häppchen, die sich in jedem Webbrowser öffnen lassen. LearningApps.org unterstützt Lern- und Lehrprozesse mit kleinen interaktiven, multimedialen Bausteinen. Die Bausteine können sehr einfach online erstellt und genutzt werden. Es&hellip;",
-            "content_html": "<p>Anders als der Name <a href=\"https://learningapps.org/\" target=\"_blank\" rel=\"noopener noreferrer\">LearningApps</a> vielleicht suggeriert, werden hier keine 'echten' Apps erstellt sondern vielmehr kleine Lern-Häppchen, die sich in jedem Webbrowser öffnen lassen.</p>\n<blockquote>\n<p>LearningApps.org unterstützt Lern- und Lehrprozesse mit kleinen interaktiven, multimedialen Bausteinen. Die Bausteine können sehr einfach online erstellt und genutzt werden. Es steht eine Reihe von Vorlagen (Zuordnungsübungen, Multiple Choice-Tests etc.) zur Verfügung. Die Bausteine selbst stellen keine abgeschlossenen Lerneinheiten dar. Sie sind zum Üben und Vertiefen von Fertigkeiten (z.B. im Fremdsprachenunterricht) gedacht und eignen sich nicht für die Erklärung komplexer Sachverhalte. Die von den Nutzenden veröffentlichten Bausteine weisen unterschiedliche Qualität auf und müssen vor dem Einsatz im Unterricht überprüft werden.<br>Zitat von der Webseite</p>\n</blockquote>\n<p>Intuitiv und (fast) ohne Einarbeitung lässt sich auf der Grundlage einer vorhandenen LearningApp ein eigenes Lern-Häppchen basteln: Der Klick auf den Button \"ähnliche App erstellen\" befördert einen in den Editor, wo sämtliche Einstellungen der App verändert werden und anschließend für eigene Zwecke gespeichert werden können.</p>\n<p>Besonders spannend für Lehrys, die mit der eigenen Klasse mebis verwenden:<br>Der sehr kleine und unscheinbare Button \"Scorm\" lädt eine ZIP-Datei herunter, die sich mit wenigen Mausklicks direkt in einen mebis-Kurs einfügen und damit nahtlos integrieren lässt.</p>\n<p> </p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/19/Screenshot-2024-11-14-085332.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Übung",
-                   "Lernen"
-            ],
-            "date_published": "2024-11-14T08:54:31+01:00",
-            "date_modified": "2024-11-14T08:54:31+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/hyfee.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/hyfee.html",
-            "title": "hyfee",
-            "summary": "hyFee ist eine kosenpflichtige App für iPad oder iPhone, mit der sich Feedback oder Lernmaterialien schnell und unkompliziert verteilen lassen: Sie nehmen Audio, Bilder oder Videos direkt in hyFee auf oder wählen vorhandene Medien aus der Fotobibliothek. Falls nötig kombinieren Sie einfach beliebige Feedback-Typen zu&hellip;",
-            "content_html": "<p>hyFee ist eine kosenpflichtige App für iPad oder iPhone, mit der sich Feedback oder Lernmaterialien schnell und unkompliziert verteilen lassen:</p>\n<p>Sie nehmen Audio, Bilder oder Videos direkt in hyFee auf oder wählen vorhandene Medien aus der Fotobibliothek. Falls nötig kombinieren Sie einfach beliebige Feedback-Typen zu einem Paket. </p>\n<p>Wenn Sie fertig sind, laden Sie das Feedback für die Schüler*in mit einem Tap hoch. hyFee kümmert sich um das Ablegen der Dateien, sodass Sie sich selbst keine Gedanken über Ordner und Dateiformate kümmern müssen. </p>\n<p>Nach dem Hochladen können Sie einen automatisch erzeugten QR-Code speichern und drucken, um ihn auf die Arbeit der Schüler*in zu kleben. </p>\n<p>hyFee setzt in der Variante \"Drive\" einen eigenen Online-Speicher (wie z.B. <span class=\"elementor-icon-list-text\">NextCloud, OneDrive, Google Drive, Dropbox, ownCloud und MagentaCLOUD) </span>voraus. Die aufgenommenen Audios, Videos oder PDFs werden in die jeweilige Cloud geladen und verbleiben dort beliebig lange.</p>\n<p>In der Variante \"Cloud\", die ein monatliches Abo erfordert, werden die Daten für 40 Tage in der hyFee-Cloud gespeichert. <span class=\"elementor-icon-list-text\">Übersetzungs- und Text-To-Speech-Funktionen sind bei der Cloud-Variante bereits integriert.</span></p>\n<p>Eine kostenlose, aber nicht ganz so mächtige und einfach zu bedienende Alternative zu hyFee ist das hier vorgestellte <a href=\"https://hodihu.github.io/medienpaedseminar/qrstorage.html\">QRStorage</a> von kits.blog.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/18/Screenshot-2024-11-14-084453.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "QR-Code",
-                   "Feedback"
-            ],
-            "date_published": "2024-11-14T08:45:16+01:00",
-            "date_modified": "2024-11-14T08:45:16+01:00"
         }
     ]
 }
