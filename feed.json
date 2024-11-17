@@ -52,7 +52,7 @@
             "url": "https://hodihu.github.io/medienpaedseminar/simpleshow.html",
             "title": "Simpleshow",
             "summary": "Mit dem Online-Tool simpleshow kann jeder ohne großen Aufwand bei minimalem Zeiteinsatz kostenlos Videos produzieren. Mit simpleshow lassen sich komplexe Sachverhalte in automatisch generierten Erklärvideos verständlich erklären. Die Hauptarbeit für den Anwender liegt dabei in der Formulierung eines sinnvoll strukturierten Textes, der anschließend von simpleshow&hellip;",
-            "content_html": "<p>Mit dem Online-Tool <a href=\"https://website.simpleshow.com/\" target=\"_blank\" rel=\"noopener noreferrer\">simpleshow</a> kann jeder ohne großen Aufwand bei minimalem Zeiteinsatz kostenlos Videos produzieren. Mit simpleshow lassen sich komplexe Sachverhalte in automatisch generierten Erklärvideos verständlich erklären. </p>\n<p>Die Hauptarbeit für den Anwender liegt dabei in der Formulierung eines sinnvoll strukturierten Textes, der anschließend von simpleshow mit Grafiken und den bekannten \"wischenden Händen\" animiert und bei Bedarf auch gleich gesprochen wird.</p>\n<p> </p>\n<p>Die kostenlose Classroom-Lizenz ist mit einigen Einschränkungen versehen (Wasserzeichen, Video öffentlich, beschränkte Stimmen-Auswahl), im Gegensatz zum Free-Modell allerdings deutlich sinnvoller zu benutzen.</p>\n<p>⚠️ Schülys müssen per Mail zur <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">gemeinsame Mitarbeit an Videos eingeladen werden. Beachte dabei datenschutzrechtliche Vorgaben!</span></p>\n<p> </p>",
+            "content_html": "<p>Mit dem Online-Tool <a href=\"https://website.simpleshow.com/\" target=\"_blank\" rel=\"noopener noreferrer\">simpleshow</a> kann jeder ohne großen Aufwand bei minimalem Zeiteinsatz kostenlos Videos produzieren. Mit simpleshow lassen sich komplexe Sachverhalte in automatisch generierten Erklärvideos verständlich erklären. </p>\n<p>Die Hauptarbeit für den Anwender liegt dabei in der Formulierung eines sinnvoll strukturierten Textes, der anschließend von simpleshow mit Grafiken und den bekannten \"wischenden Händen\" animiert und bei Bedarf auch gleich gesprochen wird.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"800\" height=\"400\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://hodihu.github.io/medienpaedseminar/simpleshow_Anschl_sse.mp4\" type=\"video/mp4\" /></video></figure>\n<p>Die kostenlose Classroom-Lizenz ist mit einigen Einschränkungen versehen (Wasserzeichen, Video öffentlich, beschränkte Stimmen-Auswahl), im Gegensatz zum Free-Modell allerdings deutlich sinnvoller zu benutzen.</p>\n<p>⚠️ Schülys müssen per Mail zur <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">gemeinsame Mitarbeit an Videos eingeladen werden. Beachte dabei datenschutzrechtliche Vorgaben!</span></p>\n<p> </p>",
             "image": "https://hodihu.github.io/medienpaedseminar/media/posts/35/Screenshot-2024-11-17-105342.png",
             "author": {
                 "name": "Holger Hunger"
@@ -62,7 +62,7 @@
                    "Medien"
             ],
             "date_published": "2024-11-15T11:14:00+01:00",
-            "date_modified": "2024-11-17T11:30:15+01:00"
+            "date_modified": "2024-11-17T11:31:51+01:00"
         },
         {
             "id": "https://hodihu.github.io/medienpaedseminar/mebis-tafel.html",
