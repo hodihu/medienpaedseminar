@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/mal-den-code.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/mal-den-code.html",
+            "title": "Mal den Code",
+            "summary": "QR-Codes lassen sich vielfältig in der Schule gebrauchen. Mit dieser Website kannst du dir QR-Codes zum Ausmalen erstellen, die sich prima für ein Quiz oder einen Wettbewerb verwenden lassen. Die erzeugten Codes enthalten durchnummerierte, leere Felder zum Ausmalen. Im Lösungs-Code sind die jeweils auszumalenden bzw.",
+            "content_html": "<p>QR-Codes lassen sich vielfältig in der Schule gebrauchen. Mit dieser Website kannst du dir QR-Codes zum Ausmalen erstellen, die sich prima für ein Quiz oder einen Wettbewerb verwenden lassen. Die erzeugten Codes enthalten durchnummerierte, leere Felder zum Ausmalen. Im Lösungs-Code sind die jeweils auszumalenden bzw. leer zu lassenden Felder benannt und markiert.</p>\n<p>Undbedingt auch mal den Button \"mehr erfahren\" auf der Seite anklicken. Dahinter verbergen sich Hintergrundinformationen zu QR-Codes, die ganz spannend zu lesen sind.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/36/qrcode1.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Quiz",
+                   "QR-Code"
+            ],
+            "date_published": "2024-11-21T08:48:25+01:00",
+            "date_modified": "2024-11-21T08:48:49+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/lernfoerderliche-gestaltung.html",
             "url": "https://hodihu.github.io/medienpaedseminar/lernfoerderliche-gestaltung.html",
             "title": "Lernförderliche Gestaltung",
@@ -173,23 +190,6 @@
             ],
             "date_published": "2024-11-14T09:22:26+01:00",
             "date_modified": "2024-11-14T09:22:26+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/teammapper.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/teammapper.html",
-            "title": "TeamMapper",
-            "summary": "Mit Mindmaps lassen sich Themen strukturieren und visualisieren. Mit dem Tool TeamMapper steht eine niederschwellige und auch kollaborativ nutzbare Möglichkeit zur Erstellung zur Verfügung. Durch die registrierungsfreie und niederschwellige Nutzung und die Datenschutzkonformität des Tools gibt es keine Hindernisse zur Nutzung durch Schülys. Die Mindmaps&hellip;",
-            "content_html": "<p>Mit Mindmaps lassen sich Themen strukturieren und visualisieren. Mit dem Tool <a href=\"https://map.kits.blog/\" target=\"_blank\" rel=\"noopener noreferrer\">TeamMapper</a> steht eine niederschwellige und auch kollaborativ nutzbare Möglichkeit zur Erstellung zur Verfügung.</p>\n<p>Durch die registrierungsfreie und niederschwellige Nutzung und die Datenschutzkonformität des Tools gibt es keine Hindernisse zur Nutzung durch Schülys. Die Mindmaps können dabei auch kollaborativ erstellt werden. Hinzu kommen interessante Funktionen wie z. B. Exportierbarkeit, ein Bild-Upload, eine Schnittstelle zu den ARASAAC-Piktogrammen oder die Möglichkeit einer individuellen Farbgestaltung.</p>\n<p>Der <a href=\"https://kits.blog/mindmapping-in-lernprozessen/\" target=\"_blank\" rel=\"noopener noreferrer\">dazugehörige Blog-Artikel</a> beschreib methodische und didaktische Aspekte des TeamMappers.</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/21/mindmap_fruehling.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Mindmap",
-                   "Brainstorming"
-            ],
-            "date_published": "2024-11-14T09:09:09+01:00",
-            "date_modified": "2024-11-14T09:09:09+01:00"
         }
     ]
 }
