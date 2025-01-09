@@ -11,6 +11,40 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/einfache-sprache.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/einfache-sprache.html",
+            "title": "Einfache Sprache",
+            "summary": "EinfacheSprache.xyz übersetzt einen Text (ziemlich gut) in Einfache Sprache.",
+            "content_html": "<p><a href=\"https://einfachesprache.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">EinfacheSprache.xyz</a> übersetzt einen Text (ziemlich gut) in Einfache Sprache.</p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/38/Screenshot-2025-01-09-131738.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "KI",
+                   "Einfache Sprache"
+            ],
+            "date_published": "2025-01-09T13:18:02+01:00",
+            "date_modified": "2025-01-09T13:18:40+01:00"
+        },
+        {
+            "id": "https://hodihu.github.io/medienpaedseminar/trixmix.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/trixmix.html",
+            "title": "Trixmix",
+            "summary": "TRIXMIX ist der Trickfilm-Baukasten zum Selbermachen und die interaktive Weiterentwicklung von TRICKMISCH. Wir haben das analoge Scherenschnitt-Leuchttisch-Prinzip ins Digitale übersetzt.",
+            "content_html": "<p><a href=\"https://trixmix.tv/\" target=\"_blank\" rel=\"noopener noreferrer\">TRIXMIX </a>ist der Trickfilm-Baukasten zum Selbermachen und die interaktive Weiterentwicklung von TRICKMISCH. Wir haben das analoge Scherenschnitt-Leuchttisch-Prinzip ins Digitale übersetzt. </p>\n<p> </p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/37/Screenshot-2025-01-09-131147.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Storytelling",
+                   "Stop Motion"
+            ],
+            "date_published": "2025-01-09T13:13:55+01:00",
+            "date_modified": "2025-01-09T13:13:55+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/mal-den-code.html",
             "url": "https://hodihu.github.io/medienpaedseminar/mal-den-code.html",
             "title": "Mal den Code",
@@ -154,42 +188,6 @@
             ],
             "date_published": "2024-11-14T13:52:35+01:00",
             "date_modified": "2024-11-14T13:52:35+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/knietzsches-werkstatt.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/knietzsches-werkstatt.html",
-            "title": "Knietzsches Werkstatt",
-            "summary": "Mit Knietzsches Geschichtenwerkstatt, die als App für iPads oder Android-Tablets kostenlos erhältlich ist, können Kinder eigene Knietzsche-Geschichten erzählen – ganz frei, ohne Vorgaben. Die App fördert spielerisch Kreativität und Selbstvertrauen und unterstützt Kinder beim Erzählen. Die Spiel- und Gestaltungsmöglichkeiten sind groß. Nachwuchsautoren ab dem Grundschulalter&hellip;",
-            "content_html": "<p>Mit Knietzsches Geschichtenwerkstatt, die als App für <a href=\"https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762\" target=\"_blank\" rel=\"noopener noreferrer\">iPads</a> oder <a href=\"https://play.google.com/store/apps/details?id=de.swr.knietzsche&amp;pli=1\">Android-Tablets</a> kostenlos erhältlich ist, können Kinder eigene Knietzsche-Geschichten erzählen – ganz frei, ohne Vorgaben. Die App fördert spielerisch Kreativität und Selbstvertrauen und unterstützt Kinder beim Erzählen. Die Spiel- und Gestaltungsmöglichkeiten sind groß. Nachwuchsautoren ab dem Grundschulalter erschaffen ihre eigenen Bildergeschichten.</p>\n<p>Der Vorteil bei der Knieztsche-App gegenüber anderen, die teils deutlich mehr Funktionen und vorgefertigte Inhalte bieten ist genau dieses. Die Beschränkung auf unbewegte Inhalte und das sparsame Repertoire an Figuren und Vorlagen sorgt für eine schnelle Einarbeitung (für Schülys und Lehrys) und ein ablenkungsfreies Arbeiten.</p>\n<p> </p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/26/Screenshot-2024-11-14-133543.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Storytelling",
-                   "Geschichten",
-                   "App"
-            ],
-            "date_published": "2024-11-14T13:36:30+01:00",
-            "date_modified": "2024-11-14T13:36:30+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/bookstagram-and-taskcards.html",
-            "title": "Bookstagram &amp; Taskcards",
-            "summary": "Grundidee Schülys nutzen \"Soziale Medien\" (ob wir wollen oder nicht). Also nutzen wir die Bekanntheit und das Look &amp; Feel von bspw. Instagram um die Bookstagram-Community zumindest teilweise ins Klassenzimmer zu holen um damit das altbewährte Buch-Referat zu ersetzen. Voraussetzung ist ein Account bei Taskcards&hellip;",
-            "content_html": "<h3>Grundidee</h3>\n<p>Schülys nutzen \"Soziale Medien\" (ob wir wollen oder nicht). Also nutzen wir die Bekanntheit und das Look &amp; Feel von bspw. Instagram um die Bookstagram-Community zumindest teilweise ins Klassenzimmer zu holen um damit das altbewährte Buch-Referat zu ersetzen.</p>\n<h3>Umsetzung</h3>\n<p>Voraussetzung ist ein Account bei <a href=\"https://www.taskcards.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Taskcards</a> (beim Gratis-Zugang sind zwei Pinnwände möglich) und eine Pinnwand, die bei der Erstellung als \"Blog\" eingerichtet wird. Dadurch ergibt sich eine Timeline-ähnliche Struktur wie sie von Instagram &amp; Co bekannt ist. Neue Beiträge werden ans Ende der Liste angehängt, die sich von oben nach unten 'durchwischen' lässt.</p>\n<h3>Differenzierung</h3>\n<p>Im Endausbau soll ein Bookstagram-Beitrag folgende Inhaltselemente enhalten:</p>\n<ul>\n<li>Foto des Buches mit entsprechenden Requisiten, Details oder Umgebung</li>\n<li>Titel des Buches mit Autor und Verlag</li>\n<li>Inhaltszusammenfassung als zusammenhängender Text</li>\n<li>Eigene Einschätzung (gefällt mir/nicht, weil...)</li>\n<li>Sterne-Bewertung a la Amazon</li>\n<li>Hashtags (also Stichpunkte) passend zum Inhalt des Buches</li>\n</ul>\n<p>Differenzierung findet hinzufügen bzw. Weglassen einzelner Inhaltselemente statt (und natürlich über die passende Auswahl des Buches 😋).</p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/22/Screenshot-2024-11-14-092115.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Social Media",
-                   "Medien",
-                   "Bücher"
-            ],
-            "date_published": "2024-11-14T09:22:26+01:00",
-            "date_modified": "2024-11-14T09:22:26+01:00"
         }
     ]
 }
