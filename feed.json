@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://hodihu.github.io/medienpaedseminar/grundschulschriften.html",
+            "url": "https://hodihu.github.io/medienpaedseminar/grundschulschriften.html",
+            "title": "Grundschulschriften",
+            "summary": "Das Grundschulportal der ZUM hat allerhand Grundschulschriften, die allesamt unter verschiedenen freien Lizenzen stehen, gesammelt. Schriften für den Gebrauch an Grundschulen zeichen sich vor allem aus durch das geschlossene kleine a und einen deutlichen Unterschied zwischen großem I (ih) und kleinem l (ell).",
+            "content_html": "<p>Das Grundschulportal der <a href=\"https://www.zum.de/portal\" target=\"_blank\" rel=\"noopener noreferrer\">ZUM</a> hat allerhand <a href=\"https://grundschullernportal.zum.de/wiki/Grundschulschriften\" target=\"_blank\" rel=\"noopener noreferrer\">Grundschulschriften</a>, die allesamt unter verschiedenen freien Lizenzen stehen, gesammelt. </p>\n<p>Schriften für den Gebrauch an Grundschulen zeichen sich vor allem aus durch <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">das geschlossene kleine a und </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">einen deutlichen Unterschied zwischen großem I (ih) und kleinem l (ell).</span></p>",
+            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/39/Screenshot-2025-03-09-180844.png",
+            "author": {
+                "name": "Holger Hunger"
+            },
+            "tags": [
+                   "Schrift",
+                   "Lernförderllich",
+                   "Grundschule"
+            ],
+            "date_published": "2025-03-09T18:11:25+01:00",
+            "date_modified": "2025-03-09T18:11:25+01:00"
+        },
+        {
             "id": "https://hodihu.github.io/medienpaedseminar/einfache-sprache.html",
             "url": "https://hodihu.github.io/medienpaedseminar/einfache-sprache.html",
             "title": "Einfache Sprache",
@@ -170,24 +188,6 @@
             ],
             "date_published": "2024-11-14T14:06:01+01:00",
             "date_modified": "2024-11-14T14:17:21+01:00"
-        },
-        {
-            "id": "https://hodihu.github.io/medienpaedseminar/puppet-pals.html",
-            "url": "https://hodihu.github.io/medienpaedseminar/puppet-pals.html",
-            "title": "Puppet Pals",
-            "summary": "Puppet Pals 2 bzw. Puppet Pals HD sind App für iPads zum Erstellen von animierten Kurzfilmen und Geschichten. Nutzer wählen Figuren und Hintergründe aus oder erstellen eigene, dann können Figuren auf einer digitalen Bühne bewegt und animiert werden. Dazu können Sprache, Geräusche und Musik aufgenommen&hellip;",
-            "content_html": "<p><a href=\"https://apps.apple.com/de/app/puppet-pals-2/id589141096\" target=\"_blank\" rel=\"noopener noreferrer\">Puppet Pals 2</a> bzw. <a href=\"https://apps.apple.com/de/app/puppet-pals/id342076546\" target=\"_blank\" rel=\"noopener noreferrer\">Puppet Pals HD</a> sind App für iPads zum Erstellen von animierten Kurzfilmen und Geschichten. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Nutzer wählen Figuren und Hintergründe aus oder erstellen eigene, dann können </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Figuren auf einer digitalen Bühne bewegt und animiert werden. Dazu können </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Sprache, Geräusche und Musik aufgenommen werden. Das </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Ergebnis ist ein animierter Kurzfilm, der sich problemlos exportieren lässt.</span></p>\n<h3 class=\"mb-2 mt-6 text-lg first:mt-3\">Einsatzmöglichkeiten</h3>\n<ul class=\"marker:text-textOff list-disc pl-8\">\n<li>Geschichtenerzählen und kreatives Schreiben</li>\n<li>Erstellung von Lehrvideos zu verschiedenen Themen</li>\n<li>Unterstützung beim Fremdsprachenlernen</li>\n<li>Präsentationshilfe für schüchterne Lernende</li>\n<li>Brainstorming und Ideenentwicklung</li>\n</ul>\n<p>In der jeweils eingeschränkten, weil kostenlosen Version stehen nur eine sehr begrenzte Anzahl an Hintergründen, Figuren und Gegenständen zur Verfügung.</p>\n<h3>Puppet Pals 2 vs Puppet Pals HD</h3>\n<p>Puppet Pals 2 bietet eine gegenüber der HD-Variante erweiterte Benutzererfahrung mit mehr interaktiven Möglichkeiten. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Benutzer können eigene Fotos als Charaktere verwenden (⚠️ Datenschutz!). Daneben </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">gibt es mehr integrierte Funktionen zur Erstellung von Geschichten, einschließlich der Möglichkeit, historische Ereignisse nachzustellen (allerdings sehr US-lastig) oder Buchberichte zu präsentieren. Insgesamt ist die Steuerung der Elemente in Puppet Pals 2 deutlich vielfältiger, aber dadurch auch komplizierter als bei Puppet Pals HD.</span></p>\n<p>Vor dem Einsatz im eigenen Unterricht sollten daher die Anforderungen an die App bezogen auf die zu erreichenden Ziele abgeglichen werden.</p>\n<p> </p>",
-            "image": "https://hodihu.github.io/medienpaedseminar/media/posts/27/Screenshot-2024-11-14-135155.png",
-            "author": {
-                "name": "Holger Hunger"
-            },
-            "tags": [
-                   "Storytelling",
-                   "Geschichten",
-                   "App"
-            ],
-            "date_published": "2024-11-14T13:52:35+01:00",
-            "date_modified": "2024-11-14T13:52:35+01:00"
         }
     ]
 }
